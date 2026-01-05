@@ -1,0 +1,7 @@
+"5.5.4.2.30 System Messages Window. In this window, messages related to system"
+commands exercised by user on SCD Main Window & their responses/ results received
+from sub-systems shall be displayed in this window as on when they happen with the latest
+"message being on top of the list. By default, this window shall be hidden and shall be shown"
+when user selects ‘Show System Messages Window’ option in ‘System’ menu. The GUI
+for this window shall be as shown in Figure-5.272 and shall contain GUI tabs to show each
+sub-system messages separately.

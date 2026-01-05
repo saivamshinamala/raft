@@ -1,0 +1,41 @@
+Parameter,Status,Description,Status GUI
+,,in ‘Red’.,
+"Lockout
+Frequencies",SET,"If ‘Lockout Frequencies’
+are set (enforced) at ES
+Processor.",
+,NOTSET,"If ‘Lockout Frequencies’
+reset (removed) at ES
+Processor.",
+"Lockout
+Sectors",SET,"If ‘Lockout Sectors’ are set
+(enforced) at ES
+Processor.",
+,NOTSET,"If ‘Lockout Sectors’ reset
+(removed) at ES
+Processor.",
+"Platform
+Latitude &
+Longitude","‘Latitude,
+Longitude
+Data’","The background shadow
+will be blinking in
+green/yellow colour as
+long as data is received
+from ESI and updated at
+SCD. If there is “No” data
+update from ESI. The
+background show will be
+in red colour and there will
+not be any blinking of
+shadow.",
+,ERROR,"Error in latitude &
+longitude data received
+from ESI. Latitude &
+longitude values will be
+replaced by ‘ERROR’ text
+in ‘Red’ colour.",
+,OFF,"No latitude & longitude
+data from source.
+Background shadow will
+change to ‘Red’ colour.",

@@ -1,0 +1,38 @@
+Parameter,Status,Description,Status GUI
+,,"Mode.
+SCN: Scan Mode.
+MSN: Mission Mode.
+RFPS: RFPS Mode.
+SFB: Switch Filter Bank.
+BB: Broad Band Mode.
+BLK: Receiver Blocked.",
+"Receiver
+Duty Cycle","‘Duty Cycle
+% Values’","‘Duty Cycle’ information of
+receiver received from
+ESI. ‘Duty Cycle %’ will be
+split into two values for
+NBRx2 (2.2-18GHz) for
+2.2-6GHz band & for 6-
+18GHz band. Note: This
+indicator will be a toggle
+indicator to switch
+between ‘Receiver Mode
+& Receive Duty Cycle’
+statuses. By default, it
+shall display ‘Receiver
+Mode’.",
+Auto BITE,ON,"Current state of ‘Auto
+BITE’. If ‘Auto BITE’ is
+enabled & started in SCD
+application.",
+,OFF,"If ‘Auto BITE’ is disabled or
+stopped in SCD
+application. Background
+colour of the indicator will
+be flashing in ‘Red’.",
+Manual BITE,ON,"If ES manual BITE is
+initiated & is in progress.",
+,OFF,"If ES manual BITE is
+stopped. Background
+colour of the indicator will",

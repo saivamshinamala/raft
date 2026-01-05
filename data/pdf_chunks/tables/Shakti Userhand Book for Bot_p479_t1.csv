@@ -1,0 +1,4 @@
+5.5.4.6.12.1 Add User. This feature facilitates creating new user. When this button is
+"clicked, the Add User dialog box is displayed. The Administrator specifies the username,"
+privilege and clicks the Add button. The new user details are created and added to the
+database.

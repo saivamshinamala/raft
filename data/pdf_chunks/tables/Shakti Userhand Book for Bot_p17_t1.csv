@@ -1,0 +1,43 @@
+Ser,"Sub-System
+Description",Location,"Type of Power
+Supply","Approx. Load in
+KVA"
+11,EA Rack-1,"EWTR
+Compartment","230V AC, 50Hz,
+1Ø",5.0 KVA
+12,EA Rack-2,"EWTR
+Compartment","230V AC, 50Hz,
+1Ø",4.0 KVA
+13,"MB2 JAMMER
+(2 No’s)","Port & STBD
+Diaphragm","+5V, ±15V, +28V,
+-48V
+270V","DC Supply is from
+EA RACK-1 by
+taking 230V AC Input
+DC Supply is from
+Tx-PS(MB2) by
+taking 415V AC
+Input."
+14,"Tx-PS(MB2)
+(4 No’s)",-,"380V AC, 50Hz,
+3Ø",6 KVA each
+15,"HB JAMMER
+(2 No’s)","Port & STBD
+Jammer
+Platform","+5V, ±15V, +28V
+380V AC, 50Hz,
+3Ø
+115V AC, 400Hz,
+1Ø","DC Supply is from
+EA RACK-1 by
+taking 230V AC Input
+380V AC – 1.5KVA
+each
+115V AC – 0.7 KVA
+each"
+16,"Heat Exchanger
+Unit (HEU)
+(2 No’s)","EWTR
+Compartment","230V AC, 50Hz,
+1Ø",3 KVA each

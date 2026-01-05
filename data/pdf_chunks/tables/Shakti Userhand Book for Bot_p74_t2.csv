@@ -1,0 +1,5 @@
+2.2.5.3 Quad Digital Receiver. The Quad Digital Receiver (QDR) is a sub-system of
+an ELINT system and measures the pulse parameters of radar in real time. The radar
+signal of 0.5 –18 GHz will be down converted to an IF using suitable Front End Receiver
+"and fed to Quad Digital Receiver. This sub-system is built around Ultra High speed, Low"
+"Power, High Performance 10 bit ADC’s and Xilinx 7 series FPGAs."

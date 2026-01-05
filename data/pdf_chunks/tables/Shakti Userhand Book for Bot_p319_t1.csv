@@ -1,0 +1,5 @@
+5.5.4.2.20.6 BITE – Show EA Manual BITE Status. User shall click on this menu item
+"to view the status of manual BITE on EA system. A GUI, as shown in Figure-5.199, shall"
+"be displayed with BITE status. The BITE status, along with start & stop time stamps, shall"
+be updated on this GUI as on when received from EA Processor. User can perform manual
+BITE test on EA system again by clicking on ‘Test Again’ option.

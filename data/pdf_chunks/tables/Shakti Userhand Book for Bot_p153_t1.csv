@@ -1,0 +1,25 @@
+Ser,Directory,Directory,Purpose of Directory
+,,ShaktiSCD-1.4.5,recorded files.
+10,Print,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","The directory contains operator
+saved copy of printout pdf files."
+11,RFPS files,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","The directory contains
+exported/ imported RFPS files
+from RFPS subsystem."
+12,Screenshots,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory contains all
+image files of the screen shots
+taken by the operator."
+13,Simulation,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","The directory contains user
+generated simulated data files."
+14,"Simulation
+configuration","/home/ShaktiSCD/
+ShaktiSCD-1.4.5","The directory contains
+simulated sub-system
+configuration files."
+15,Style sheet,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory contains GUI
+controls colour and font
+information."

@@ -1,0 +1,7 @@
+2.3.2.2.2 Digital RF Memory with 1000 MHz IBW. This module is used in the
+configuration to handle the radars with a wide frequency agility band width. The DRFM
+"used is similar to the one used in 6-18 GHz band and can generate the required Range,"
+velocity and their combinational techniques.
+2.3.2.2.3 RFC & NG Module. This RFC & NG Module used is similar to the one used
+in 6-18 GHz band and acts as an interface to the EA Processor and HB Jammer. This
+module is configured with the following Sub-modules.

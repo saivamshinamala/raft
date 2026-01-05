@@ -1,0 +1,5 @@
+"5.5.4.2.9.12 Manage Filters. When user clicks on this menu item a GUI, as shown in"
+"Figure 5.75, shall be displayed. User shall check a filter type (Track Status, Scan Type,"
+"Receiver Type etc.,) and click on ‘Apply’ option to enforce those filter categories or shall"
+uncheck a filter type & click on ‘Apply’ option to remove those filters categories on SCD
+Main Window.

@@ -1,0 +1,47 @@
+Ser.,Faults,Possible Cause,Corrective action
+,,,"antenna and also Check the
+functionality of Front End
+Unit."
+,,"Blanking may be the
+issue","Check the cable between
+ESI to the EA RACK-1 to be
+connected properly
+(Blanking signal from ESI to
+the EA rack-1)"
+3,"Link failure between
+RFCNG and
+Transmitter-HVPS
+(HB)","Serial link cable may be
+defective","Check serial link cable
+between low power unit(HB)
+and Transmitter-HVPS (HB)
+is intact both sides properly."
+4,"Tx(HB) related Jam
+On LED not blinking
+while jamming",SOP may not followed.,"Check all the commands are
+given properly."
+,,"JAM INIT switch might
+be not pressed","Check HV ON command of
+Tx(HB) and Jam Init switch
+is pressed."
+5,"Tx(HB) related HV
+ON is not happening",Blower is not running,"Check supply of 115V AC
+supply"
+6,"Maintenance BITE is
+not OK","DTO could be
+defective","Check the functionality of 6-
+18 GHz DTO"
+EA RACK-1,,,
+1,"Link failure between
+SCD and EAP","24V to switch may not
+available.","LVPS-6 may be found
+defective. Check the input
+power supply to the
+ETHSW2"
+,,"ETHSW2 might be
+issue.","Check the LED blinking
+status of corresponding Port
+in ETHSW2"
+,,"LAN EW cable may be
+issue","Check the ETHSW2 inter
+connections and continuity"

@@ -1,0 +1,36 @@
+Ser,Requirements,,Specification
+6.2,"Wide
+Band",2– 18 GHz,-60 ± 5 dBm
+,,"18 – 40 GHz,",-55± 5 dBm
+7,Sensitivity Flatness,,+ 5 dB over frequency & temperature
+8,Dynamic Range,,"60 dB in Wide band
+40 dB in Narrow band"
+9,Automatic Tracking,,500
+10,Signal Types,,"Frequency Types - Pulse, CW, Frequency
+Agile (Agile: Random, Periodic, Ramp & Fix,
+Agile Batch: up to 16 values, 8-512 pulses
+for batch), FMCW, Chirp, Phase coded &
+phase modulated.
+PRI types - Fixed, Jitter(30%), Staggered(16
+levels),Dwell & Switch( up to 16 values, 10
+to 100 m sec dwell time),Sliding PRI,
+Wobulated PRI
+Pulse Compression.
+Amplitude modulated."
+11,Pulse Density,,"0.175-2.2 GHz ≥ 500 kpps (kilo pulses per
+second).
+2.2-18 GHz ≥ 1.0 million pulses per second
+(mpps)
+18-40 GHz ≥ 500 kpps"
+12,Scan Types,,"Circular, Sector, Complex & Lock-on,
+Raster, Uni-bi directional, AESA and Track
+While Scan"
+13,Antenna Weight,,< 320 Kg
+14,"Provisioning of Map
+Overlays",,Moving Map Feature
+15,Interfaces,,"CMS, Radar, GPS, Gyro, Chaff, LRSAM and
+Printer"
+16,Radar Finger Printing,,"Integrated RFPS (over entire range of
+RFPS) for detailed inter and intra pulse
+analysis with separate display on same
+console, with a facility to store and modify"

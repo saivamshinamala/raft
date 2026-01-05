@@ -1,0 +1,6 @@
+2.2.2.3.1 Integrated Homodyne Receiver. Integrated Homodyne Receiver consists
+"of the Switch Filter Bank (SFB), BITE RF Input Distribution (4-Way Power Divider),"
+Homodyne Receiver and Data Interface Unit (DIU) all together as a single module. Figure
+2.12 shows the configuration of 2.2-18 GHz Integrated Homodyne Receiver. It takes four
+RF input from a BLI antenna array for high accuracy DF measurement. All other parameter
+measurements are derived from the four RF inputs internal to the Homodyne Receiver.

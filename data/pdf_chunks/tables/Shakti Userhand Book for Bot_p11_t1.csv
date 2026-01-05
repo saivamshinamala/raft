@@ -1,0 +1,35 @@
+Ser,Requirements,Specification
+,"0.175 – 2.2 GHz
+2.2 – 40 GHz","10% or 30 ns whichever is higher for PW <=
+1 µs
+1% or 100 ns whichever is higher for PW > 1
+µs"
+21,Amp Measurement Accuracy,+ 2 dB
+22,PRF Range,50 Hz to 500 KHz
+23,PRF Types,"Fixed, Jitter, stagger, Dwell & Switch, Slide
+and Wobulated PRI"
+24,PRF Accuracy,"1 Hz up to 500 Hz,
+0.4% in 501 Hz to 20 KHz
+2 % above 20 KHz"
+25,Emitter In Warner Library,500
+26,Emitters Identification Library,"20,000 emitters"
+27,Processing Time,< 500 ms for wide open mode
+28,Environmental and EMI/EMC,"As per JSS 55555 and
+MIL STD 461 E"
+29,Software,As per IEEE 12207
+30,BITE / Diagnostics,"RF Analog and digital- PCB and module
+level"
+31,Power Supply,Platform compatible
+32,Antenna Housing,Suitable protection from weather elements.
+33,Modes of Operation,"Wide open, LPI, Scan, Mission Directed
+search"
+34,Display,"Standard display consoles for following:-
+(i) ES Display for presenting tactical data in
+Tabular, Tactical or Situational formats for
+system controller operations
+(ii) Finger printing display for controlling
+modes of LPI and RFPS processor and
+displaying intra-pulse features in graphical
+as well as textual formats"
+35,Field Data Loader,"Compatible field data loader for
+uploading/downloading of library data"

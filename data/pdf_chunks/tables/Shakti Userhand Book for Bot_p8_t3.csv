@@ -1,0 +1,19 @@
+Ser,Requirements,,Specification
+ES System :,,,
+1,Frequency Coverage,,0.175 – 40 GHz
+2,DF Accuracy,,"0.175-2.2 GHz = 3°RMS
+2.2-18 GHz = 2° RMS
+18-40 GHz = 3° RMS"
+3,"Frequency Measurement
+Accuracy (RMS)",,"2 MHz, 500 KHz in RFPS"
+4,Spatial Coverage,,"Azimuth = 360˚
+Elevation = -10° to +30°"
+5,Probability of Intercept,,100%
+6,Sensitivity (in radiation mode),,
+6.1,"Narrow
+Band",0.175 – 0.5 GHz,-45 ± 5 dBm
+,,0.5 – 2.2 GHz,-60 ± 5 dBm
+,,2.2 – 6 GHz,"-75 ± 5 dBm (Pulsed)
+-85 ± 5 dBm (CW)"
+,,6-18 GHz,"-80 ± 5 dBm (Pulsed)
+-90 ± 5 dBm (CW)"

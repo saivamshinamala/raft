@@ -1,0 +1,9 @@
+5.5.4.6.6 Radar Finger Printing System – HMI. RFPS application provides graphic
+user interfaces (GUIs) based on Linux operating system to the operator. On Operating
+System boot up &system start-up RFPS application splash screen appears.
+5.5.4.6.6.1 RFPS Login. This feature shall enable the user to login into the RFPS
+"Application. On Power-on, splash screen is displayed as shown in Figure-5.282. Facility"
+"to Common login for SCD and RFPS is provided, where User shall Login into SCD and"
+SCD sends the details to RFPS on Power ON. During Power ON for cases SCD is not
+"connected, RFPS shall come with Login facility. RFPS main application is launched, if login"
+details are received from SCD.

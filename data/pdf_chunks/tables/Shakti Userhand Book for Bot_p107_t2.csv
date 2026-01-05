@@ -1,0 +1,8 @@
+"2.3.2.1 Front End Unit (HB). To receive the RF signal in 18-40 GHz band, this Unit is"
+configured with a pyramidal horn antenna and Front End module. Pyramidal horn antenna
+"is mounted with 45º to provide slant linear 45º polarization and having a gain of 24 dB,"
+covering an angle of 7 X 7 @ 37 GHz. Front End module is configured with a Limiter and
+Amplifier. A limiter is used to protect the MMW down/up converter module against any high
+power signal received by the system. A front-end amplifier with low noise figure is used
+after the limiter to achieve better sensitivity and dynamic range. The block diagram and
+pictorial view of Front End Module (HB) is shown below in Figure 2.51 & Figure 2.52.

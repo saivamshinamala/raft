@@ -1,0 +1,8 @@
+5.5.4.2.22 EW Activity Window. ‘EW Activity Window’ GUI shall be displayed below
+‘Application Menu Bar & Drop-Down Menus’. This GUI shall present the spectral activity
+captured by ES segment in a graph in a frequency scale of 0.175-40GHz. Activity Window
+for frequency range 175-18000 MHz is shown in Figure-5.237. Tracks received from ES
+Processor shall be presented as fixed length bar lines with track numbers below the lines.
+Colour notation for depicting the tracks in this GUOI shall be same as followed in other
+emitter presentation windows (described in the coming sections). There shall be provision
+to show/ hide this GUI. Activity.

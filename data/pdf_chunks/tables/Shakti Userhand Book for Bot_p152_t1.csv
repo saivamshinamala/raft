@@ -1,0 +1,42 @@
+Ser,Directory,Directory,Purpose of Directory
+1,Audio tones,"/home/Shakti
+SCD/ShaktiSCD-
+1.4.5","This directory contains all
+audio file in .wav format which
+are used to generate tones on
+receipt of Warned, Lock- On,
+CW, FCR type of emitters."
+2,Configuration,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory stores Shakti
+system configuration file."
+3,Database backup,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory stores Shakti
+system database backup files."
+4,Elint returns,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory contains ELINT
+returns files. ELINT returns file
+contains intercepted emitters
+that are added by operator
+during mission in online mode."
+5,Emitter library,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory contains the ES
+library files."
+6,Ewossformat,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory contains emitter
+libraries in the form of sanchay
+format files."
+7,Help,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5/","This directory contains three
+subdirectories i.e. login, offline
+& Shakti_online.
+(a) The login subdirectory
+stores the login help files.
+(b) The offline stores the
+offline related help files.
+(c) Shakti_online
+subdirectory stores the online
+related help files."
+8,Map,"/home/ShaktiSCD/
+ShaktiSCD-1.4.5","This directory contains all tiff
+map related files."
+9,Recording,/home/ShaktiSCD/,The directory contains all

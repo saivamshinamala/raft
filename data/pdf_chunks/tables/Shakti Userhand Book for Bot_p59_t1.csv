@@ -1,0 +1,16 @@
+Ser,Parameter,Specification
+,,-2dBLi to 2dBLi from 4-18 GHz
+6,"Gain Tracking among a set
+of 4 antennas","± 1dB (2dB window) On Axis
+± 1.5dB (3dB window) ±45˚ Off Axis"
+7,"Phase Tracking among a
+set of 4 antennas","± 10˚ (20˚ window) On Axis
+± 15˚ (30˚ window) ±45˚ Off Axis"
+8,"Gain Tracking among set of
+5 Antenna Arrays",± 2dB
+9,3 dB Beam width,"50˚ (Min), 110˚ (Max)"
+10,Axial Ratio (Max.),"2 dB (On Axis), 3 dB (±45˚ Off Axes)"
+11,Beam Squint (Max.),±10°
+12,Back lobe level (Max.),– 9.5 dB
+13,Connector,SMA female
+14,No. of Antennas in Array,Four

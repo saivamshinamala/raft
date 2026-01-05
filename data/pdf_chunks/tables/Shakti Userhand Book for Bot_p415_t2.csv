@@ -1,0 +1,9 @@
+5.5.4.5.13.14 Set as Current System Configuration. User shall click on ‘Set as
+Current Configuration’ option to save the displayed configuration (selected file) and use
+"this in ‘Online’ mode when user enters ‘Online’ mode. A confirmation GUI, as shown in"
+"Figure 39.(section 5.5.4.2.5.3), shall be displayed to user. If user wants to go to ‘Online’"
+"mode with a particular configuration, then a configuration file must be selected, changes to"
+be made (if any) then click on ‘Set as Current Configuration’ option.
+5.5.4.5.13.15 Reset to Default System Configuration. User shall click on ‘Reset to
+Default Configuration’ option to erase all the configuration settings of the selected file and
+"reload it with default (factory level) settings. A confirmation GUI, as shown in Figure"

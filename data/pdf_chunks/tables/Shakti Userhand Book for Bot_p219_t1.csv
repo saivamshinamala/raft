@@ -1,0 +1,34 @@
+5.5.4.2.8.17 Show/Hide Windows – Show System Message Window. User shall
+click on this menu item to show/ hide ‘System Messages Window’ in SCD Main Window.
+This shall be a toggling menu item and shall switch between ‘Show System Messages
+"Window’ & ‘Hide System Messages Window’ options. By default, ‘System Messages"
+Window’ shall be hidden. Details of ‘System Messages Window’ are described in
+5.5.4.2.30sections.
+5.5.4.2.8.18 Show/Hide Windows – Hide Activity Window. User shall click on this
+menu item to show/ hide ‘Activity Window’ in SCD Main Window. This shall be a toggling
+menu item and shall switch between ‘Show Activity Window’ & ‘Hide Activity Window’
+"options. By default, ‘Activity Window’ shall be visible. Details of ‘Activity Window’ are"
+described in 5.5.4.2.22sections.
+5.5.4.2.8.19 Show/ Hide Windows – Show / Hide Sub Window Titles. User shall
+"click on this menu item to show/ hide titles of sub-windows (Graphics Window, Emitter"
+"Report Window, Latest Emitters Window, EA Parameters Window, Link & Self-Test Status"
+& System Messages) in SCD Main Window. This shall be a toggling menu item and shall
+"switch between ‘Show Sub-Window Titles’ & ‘Hide Sub-Window Titles’ options. By default,"
+all titles shall be hidden.
+5.5.4.2.8.20 Show/ Hide Windows – Show / Hide Link &Self Test Status Window.
+User shall click on this menu item to show/ hide ‘Link & Self-Test Status’ GUI in SCD Main
+Window. This shall be a toggling menu item and shall switch between ‘Show Link & Self-
+"Test Status Window’ & ‘Hide Link & Self-Test Status Window’ options. By default, ‘Link &"
+Self-Test Status Window’ GUI shall be hidden. Details of this GUI are described in the
+following sections.
+5.5.4.2.8.21 Show/ Hide Windows – Show / Hide Hook Up Emitters Window. User
+shall click on this menu item to show/ hide ‘Hook Up Emitter Window’ GUI in SCD Main
+Window. This shall be a toggling menu item and shall switch between ‘Show Hook Up
+"Emitters Window’ & ‘Hide Hook Up Emitters Window’ options. By default, ‘Hook Up"
+Emitters Window’ GUI shall be hidden. Operator designated emitters will be shown in this
+window and maximum of 10 tracks/emitters shall be shown. Operator has the facility to
+Add/Delete tracks to the list in this window.
+5.5.4.2.8.22 Show/ Hide Windows – Show / Hide Tool Bar. User shall click on this
+menu item to show/ hide ‘Application Tool Bar’ GUI in SCD Main Window. This shall be a
+toggling menu item and shall switch between ‘Show Tool Bar’ & ‘Hide Tool Bar’ options.
+"By default, ‘Application Tool’ GUI shall be visible. Details of this GUI are described in the"

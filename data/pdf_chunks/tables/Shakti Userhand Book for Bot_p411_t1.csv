@@ -1,0 +1,7 @@
+5.5.4.5.12.2 Remove ES Auto BITE Reference Data. User shall click on a row in the
+table and click on ‘Remove’. User shall repeat this procedure to remove others rows;
+"alternately, user can click on ‘Delete All’ option to delete all the entries in the table. It is not"
+"suggested to remove a single row; if at all to remove, remove all the rows in the table and"
+"add new ES auto BITE reference data for all the receivers, afresh."
+5.5.4.5.12.3 Add ES Auto BITE Reference Data. User can add ES auto BITE
+reference data if no previous data exists or if there is a change in Auto BITE configuration.

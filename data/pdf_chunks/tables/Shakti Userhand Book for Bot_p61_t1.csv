@@ -1,0 +1,15 @@
+Ser,Parameter,Specification
+3,VSWR(MAX),3.1
+4,Polarisation,Slant Linear 45°
+5,Gain (ON AXIS),7dBi (MIN)
+6,"Amplitude Tracking Among Set of 4
+Antennas in Array","±1 dB (2dB Window) ON AXIS
+±1 5dB (3dB Window) ±45° OFF AXIS"
+7,"Phase Tracking Among Set Of 4
+Antennas in Array","±10°(20° Window) ON AXIS
+±15°(30° Window) ±45° OFF AXIS"
+8,3dB Beam Width,"Azimuth :110° (MAX),65°(MIN)
+Elevation: 36°(MAX),24°(MIN)"
+9,Output Connector,SMA Female
+10,RADOME Element Array,"Polarizer Embedded RADOME Overall
+RADOME"

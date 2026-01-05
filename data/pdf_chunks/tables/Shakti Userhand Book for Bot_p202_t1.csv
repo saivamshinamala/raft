@@ -1,0 +1,13 @@
+5.5.4.2.8 Application Menu Bar & Drop-Down Menus. Operational and
+configuration related functionalities of Shakti EW system shall be distributed among drop-
+down menus (command menus) in SCD application menu bar. These menus shall present
+GUI controls to configure & control the system/ sub-systems and view the EW spectral
+activity data in various display formats (described in the coming sections). Each menu/
+menu item shall have short cut keys assigned to it. User shall be able to access the
+functionality of menu item (without using mouse & only using keyboard) with the help of
+"this short cut keys. For example, to switch display to ‘Situational’ mode, user shall press"
+"‘D’ & ‘S’ keys in combination with ‘Alt’ key, i.e., ‘Alt +D+S’. Moreover, user can also use"
+"specialized short cut keys, if assigned any, to access the same functionality. Drop-down"
+menus of SCD Main Window are described in the following sections. All the HMI commands
+shall logically be grouped into menus (as shown in Figure 5.43) for easy appreciation by
+the user as given below:

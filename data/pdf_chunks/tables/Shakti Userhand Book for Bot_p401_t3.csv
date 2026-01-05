@@ -1,0 +1,13 @@
+"Forbidden
+Frequencies",SET,"If ‘Forbidden
+Frequencies’ are set
+(enforced) at EA System.",
+,NOTSET,"If ‘Forbidden
+Frequencies’ reset
+(removed) at EA System.",
+Forbidden Sectors,SET,"If ‘Forbidden Sectors’ are
+set (enforced) at EA
+System.",
+,NOTSET,"If ‘Forbidden Sectors’
+reset (removed) at EA
+System.",

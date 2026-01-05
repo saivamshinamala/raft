@@ -1,0 +1,6 @@
+5.5.4.2.10 Map Menu. Map related functionalities such as: loading maps into SCD
+"application, selecting map mode, showing Platform path, Zoom, ‘Tactical’ superimpose,"
+"spokes, annotations, way points etc., shall be grouped under this menu (as shown in"
+Figure 5.77). Refer section 5.5.4.3.16.3 for description on ‘Map Display’. ‘Map Display’
+shall be active in Graphics Window for performing any map related operations. The
+following sections describe the menu items available under this menu.

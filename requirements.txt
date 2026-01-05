@@ -1,0 +1,9 @@
+pdfplumber
+pymupdf
+sentence-transformers
+faiss-cpu            # or faiss-gpu for GPU machine (A6000)
+tqdm
+pandas
+pillow
+pytesseract          # optional; only if you want OCR
+opencv-python        # optional, for image handling

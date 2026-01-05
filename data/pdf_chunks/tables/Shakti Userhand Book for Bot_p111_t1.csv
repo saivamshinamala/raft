@@ -1,0 +1,20 @@
+"2.3.2.2.1 1-Channel Double Down/Up Converter. Once jamming command is initiated,"
+the receiver antenna located on the 2-axis servo pedestal is positioned towards the
+direction of threat to be handled by the system based on the measured DOA information
+from the ES system. The Synthesized Local oscillator (LO) with doubler is tuned to a
+frequency such that the down converted frequency (IF-1) is always around 8.0 GHz. For
+"the input frequencies between 18-28 GHz, the LO output frequency is tuned between 26-"
+"36 GHz and for the input frequencies above 28 GHz and up to 40 GHz, the LO output"
+"frequency is tuned between 20-32 GHz so that the IF-1 is always at 8 GHz. Then, one of"
+"the four band pass filters in Switch filter module (SFM-1) i.e. 18-25 GHz, 24-31 GHz, 30-"
+"35 GHz and 34-40 GHz bands, is selected to receive the threat signal frequency and reject"
+"it’s image frequency. Simultaneously, one of the four band pass filters in Switch filter"
+modules SFM-2& SFM-3 are selected to open the EA receiver for the required
+Instantaneous band width (IBW) depending on the band width of frequencies covered by
+the threat radar. The SPST switch in delay line path of Switch-delay module is selected to
+"store the RF signal, enabling sampling and storing of threat pulse signal in the DRFM from"
+"the leading pulse itself. Now, the EA receiver is set ready to receive and detect the threat"
+radar pulse signal for initiation of jamming action. The BPF selected in Switch filter module
+(SFM-2) will also be useful for gating the required frequencies and reject the unwanted
+signal frequencies avoiding the spurious signal detection. The Block Diagram of 1-CH
+Down/Up Converter shown in Figure 2.55.

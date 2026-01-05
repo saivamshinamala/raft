@@ -1,0 +1,9 @@
+"5.5.4.6.6.2 RFPS Initialization. On power ON RFPS performs health check of DAU,"
+DSP unit and RF Tuner. It establishes connection with RFPS database. After successful
+link establishment SCD shall send date time to RFPS. In the Message/Status Window
+“SCD to RFPS- Set Date Time received” message shall be displayed. RFPS shall send
+power on health status of RFPS hardware to SCD. RFPS will go into Auto Scan Mode and
+displays activities in ‘Activity Display Window’.
+"5.5.4.6.6.3 RFPS Main Application Window. As part of system initialization, the self-"
+check of the RFPS sub-system and link check with external entities shall be performed and
+database connection shall be established.

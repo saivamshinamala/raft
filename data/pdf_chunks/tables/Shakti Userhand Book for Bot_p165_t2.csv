@@ -1,0 +1,6 @@
+"5.5.3.2 Online Mode. In ‘Online’ mode, the SCD system will be connected other sub-"
+systems of the EW system through Ethernet on Shakti LAN. SCD system will perform
+health checks with all the sub-systems connected to it after establishing the connection.
+SCD system will declare the link status of a sub-system as ‘Down’ if data is not received
+from it within ‘Link-Down Timeout’ defined in the application. The link status between SCD
+system & the sub-systems will be displayed and updated in application main window.

@@ -1,0 +1,42 @@
+Tool Button,Description,"Expected Behaviour after
+Mouse Click"
+,,"Auto merging of mid-band tracks shall be
+disabled at ES Processor. This shall be the
+default state."
+,"Set Forbidden
+Frequency Bands","GUI to set ‘Forbidden Frequency Bands’ shall
+be displayed to user. If set successfully, the
+same shall be applied in ‘Emitter Presentation
+Windows’."
+,"Remove Forbidden
+Frequency Bands","GUI to remove (reset) ‘Forbidden Frequency
+Bands’ shall be displayed to user. If set
+successfully, the same shall be applied in
+‘Emitter Presentation Windows’. By default, no
+forbidden frequency bands shall be enforced."
+,"Set Forbidden
+Sectors","GUI to set ‘Forbidden Sectors’ shall be
+displayed to user. If set successfully, the same
+shall be applied in ‘Emitter Presentation
+Windows’."
+,"Remove Lockout
+Sectors","GUI to remove (reset) ‘Forbidden Sectors’
+shall be displayed to user. If set successfully,
+the same shall be applied in ‘Emitter
+Presentation Windows’. By default, no
+forbidden sectors shall be enforced."
+,"Add Track to
+Temporary Emitter
+Library","‘Temporary Emitter Library’ GUI shall be
+displayed to user for adding selected track to
+the library."
+,"Start /Stop ‘System
+Recording’","SCD ‘System Recording’ shall be started, if not
+started already. By default, recording shall be
+started.
+SCD ‘System Recording’ shall be stopped, if
+already started."
+,"Show/ Hide ‘Link &
+Self-Test Status’ GUI","This shall be a toggling button. By default, ‘Link
+& Self-Test Status’ GUI shall be hidden
+whenever SCD Main Window is activated."

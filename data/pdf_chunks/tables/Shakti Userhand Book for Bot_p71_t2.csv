@@ -1,0 +1,5 @@
+Output Freq (MHz),,VCO Control,
+From,To,V1(MSB),V2(LSB)
+500,810,0,0
+790,1240,0,1
+1220,2000,1,0

@@ -1,0 +1,22 @@
+2.2.2.2.1 Omni Mass Sub Modules. The Omni mass module consists of two EDLVAs
+"(18-40 GHz), Mass board, SP4T switch and BITE components for 18-40 GHz and 2.2-18"
+GHz BITE distribution as shown in functional diagram. The Omni mass module receives
+"two 18-40GHz RF outputs, two 18-40 GHz down converted 6-17 GHz RF and band videos"
+"from Omni Rx modules, and two RFPS Omni Chain 2.2-18 RF signals from two Omni"
+"receivers. 18-40 GHz RF signals are routed to EDLVAs, and 6-17 GHz down converted"
+RF and 2.2-18 GHz RFPS RF are routed to SP4T switch for RFPS and band videos are
+routed to Mass board for Band Selection.
+2.2.2.2.2 Omni Driver PCB. The OMNI DRIVER PCB would be responsible to convert
+the incoming Differential signals to corresponding TTL signals along with some decoding
+logic and OR logic. The OR logic and the decoded logic output shall again be given as the
+"input for the Differential Drivers, whose output is made external from the Omni Driver"
+"Board. The OMNI DRIVER PCB will be operated on +5V DC, required other internal power"
+supplies will be generated from input +9V DC.
+2.2.2.2.3 EDLVAs (18-40 GHz). Two EDLVAs receives an 18-40 GHz RF signal and
+generates a video signal as an output. These video signals are routed to Mass board to
+validate with threshold level and measure the amplitude. After amplitude measurement
+Mass board compares the amplitude level of both the Omni receivers for selecting one
+receiver which will have maximum amplitude and band selection for 18-29 GHz or 29-40
+GHz. Then the processed data is sent to AHU-4 for further processing.
+2.2.2.2.4 Mass Logic & Band Control Generator PCB. Mass Logic & Band control
+generator PCB has following features:

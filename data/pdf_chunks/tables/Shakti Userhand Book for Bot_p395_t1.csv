@@ -1,0 +1,14 @@
+Parameter,Description,Expected Values,Units
+,,Palmer.,
+"Process
+Status","‘Current Process
+Status’ at RFPS","Data Acquisition
+Completed,
+Data Acquisition Time Out,
+Invalid Data,
+Data Acquisition
+Completed in Record Mode,
+Finger Printing Completed.",
+Reported At,‘Status Report Time’,Time in ‘hh:mm:ss’ format.,"hour,
+minute,
+second."

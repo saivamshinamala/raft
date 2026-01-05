@@ -1,0 +1,10 @@
+5.5.4.6.7.2 Overlapped Display. Over This feature enables the user to view the
+"overlapped displays of Amplitude, Frequency and Spectrum in a trace. When this option is"
+"selected, the Graphic Display Query dialog box is displayed with the Continuous and"
+"Discrete options. If Continuous is selected, the user shall select Start Pulse No. and"
+"number of pulses to be overlapped and click the OK button. If discrete option is selected,"
+the user shall select the pulse numbers randomly and click the Ok button. Based on the
+"option selected by the user, LCIU shall send the corresponding plot ID to retrieve the"
+"graphical data from DSP, and displays it in the Overlapped Graphical Display. In the"
+"overlapped plot a colour coded legend is provided to indicate the pulse number. For CW,"
+this tab must be disabled.

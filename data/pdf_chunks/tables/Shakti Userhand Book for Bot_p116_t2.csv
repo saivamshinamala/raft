@@ -1,0 +1,8 @@
+2.3.2.5 Servo Drive Assembly (2-Axis). The Two-axis servo consists of two units as
+a pair – one on Starboard side and other on Port side. These units carry electronic
+payloads. Purpose of TAS is to move these payloads in azimuth and elevation axis. Both
+the units have common ‘Home’ reference i.e. bow of the ship as ‘0’. Unit on starboard side
+"can rotate from 350 to +190 in azimuth, whereas unit on port side rotate from 170 to"
++10 in azimuth. Thus together these two units provide 360º coverage for tracking and an
+overlap angle of 10 in both -clockwise and anti-clockwise direction. Block diagram and
+pictorial view of Transmitter Unit (HB) are shown below in Figure 2.60 and Figure 2.61.

@@ -1,0 +1,7 @@
+2.3.2 HB Jammer. This EA sub-system receives the threat signal from the environment
+"for which jamming action is initiated by ES system, using a pyramidal receiving horn"
+antenna having a beam width of 7 X 7 @ 37 GHz and positioned towards the direction of
+threat based on the measured DOA data from the ES system. The sub-system is mounted
+on a two-axis servo system covering an angle of 180 sector. The received signal is
+amplified to the required level in the front-end receiver and down converted to the base
+band of Digital RF Memory (DRFM) i.e. 1.5-2.5 GHz using a Double down/up converter

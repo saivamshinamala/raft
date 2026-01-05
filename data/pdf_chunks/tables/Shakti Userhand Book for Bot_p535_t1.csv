@@ -1,0 +1,46 @@
+Ser.,Faults,Possible Cause,Corrective action
+,"RFPS Display at
+SCD Rack","RPFS SBC at SCD
+Rack due to improper
+shutting down or
+starting of SBCs or
+RFPS/SCD Application","SCD Display is established.
+Shutdown both RFPS and
+SCD SBCs at SCD Rack and
+Power ON for proper
+establishment of Synergy
+Link."
+4,"DSP SRIO Transfer
+Failed","Invalid data might have
+been processed by
+DSP.","Re-capture data in RFPS
+Application. If issue persists,
+shut down RFPS Processor
+Chassis and Power ON."
+5,DMA Access failed,"Invalid data might have
+been acquired by DAU","Re-capture data in RFPS
+Application. If issue persists,
+shut down RFPS Processor
+Chassis and Power ON."
+6,"RFPS Data
+Acquisition time out","RF/IF Path may be
+faulty or IF Attenuation
+and Threshold settings
+are not appropriate for
+present signal.","Check corresponding
+parameters’ tracks are
+available in SCD Display."
+,,,"Check proper settings for
+IF/RF Attenuation."
+,,,"Verify with Manual BITE
+RFPS"
+,,,"Monitor RF in Spectrum
+analyzer at RFPS Chassis
+LRU input. Repair/ Replace
+corresponding component
+for which output is not
+available."
+,,,"Check RF and IF path to be
+error free to deliver IF for
+RFPS"
+MB2 Jammer,,,

@@ -1,0 +1,11 @@
+2.3.2.2.3.1 Noise Generation Module along with DTO. DTO based Noise jamming
+techniques (Spot / Barrage) will be implemented by applying either digital or analog noise
+added with DDS based ramp signal to the FM modulation port of DTO. The Module used
+is similar to the one used in 6-18 GHz band and can generate the required Noise Jamming
+Techniques (Spot / Barrage).
+2.3.2.2.3.2 RF Controller Module. RF controller Module is used to generate requisite
+control signals and tuning command which are required for all the other modules of Low
+power unit (HB) for the operation of 18-40 GHz. System commands which are received
+through serial link using RS422 lines by RF controller Module will be sent to DRFM and
+Tx-HVPSM Module. The Module used is similar to the one used in 6-18 GHz band and can
+generate the required controls for other modules of Lower Power Unit.

@@ -1,0 +1,25 @@
+Ser.,Unit / Sub-units,Part No.
+,(iv) Bite Distribution Unit- N,4773 726 901 80
+,(v) Driver PCB (BB & NB RX AHU),1723 006 535 09
+,(vi) Receiver PCB (BB & NB RX AHU),1723 006 536 06
+,(vii) Synthesizer,4560 720 401 70
+,(viii) LO Distribution Module,4773 726 801 89
+,"(ix) Antenna Array 2.2-18 GHZ (CBS
+ANTENNA)",4767 779 601 91
+,(x) Spiral Antenna(0.4-2.2 GHZ),4767 780 701 89
+,(xi) Antenna CBS Array 2.2-6 GHZ,4767 777 501 86
+,(xii) Antenna Array Sectoral 6-18 GHZ,4767 772 105 75
+3,ES AHU-3,1723 003 527 12
+,(a) 18-40 GHz Biconical Antenna,4767 781 201 44
+,(b) Limiter(18-40 GHz),4544 721 701 85
+,(c) EDLVA 18-40 GHz,4556 787 501 78
+,(d) Amplifier LMT With Video Module 18-40 GHz,4562 720 401 05
+4,ES AHU-4,1723 003 528 09
+,(a) Type-3 BITE Unit (18-40 GHz),1100 050 801 27
+,(b) TDOA Processor PCB,4766 787 001 88
+,(c) Receiver Processor Board,4766 787 101 79
+,(d) BITE Source Monitor PCB,1723 006 586 50
+,(e) DIFM Receiver 2-18 GHz,4556 788 601 76
+,(f) FREQ Synthesizer 2-18 G 488.28 K,4560 720 202 85
+,(g) FREQ Synthesizer 0.5-2 G 10 dBm,4560 720 301 79
+5,ES Rack-1,1723 003 529 06

@@ -1,0 +1,22 @@
+Ser.,Faults,Possible Cause,Corrective action
+System Controller and Display,,,
+1,"SCD to ESMP link
+DOWN","ESM processor May be
+OFF","Check at ES Rack level , if
+ESMP is ON or not
+Ping 192.168.4.2 and
+192.168.5.2."
+,,"LAN Cable may not be
+connected properly","Check LAN Cable EW-28,
+direct link from SCD to
+ESMP at ES Rack-1.
+Check LAN Cable EW-39,
+Ethernet link from SCD to
+ESMP through Ethernet
+Switch-2."
+,,"IP configured file may
+be missing.","Check IP config file, if
+missing reload"
+,,"SBCs not booting-
+Board may not be","Check that SBC is inserted
+properly and giving correct"

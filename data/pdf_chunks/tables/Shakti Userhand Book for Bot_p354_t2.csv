@@ -1,0 +1,19 @@
+Parameter,Status,Description,Status GUI
+"Active,
+Passive,
+Total Tracks",‘Track Count’,"Track count received from
+ES Processor.",
+"CW, Lock-
+On, Warner
+Tracks",‘Track Count’,"Track count received from
+ES Processor.",
+Display Mode,TRUE,"When SCD Main Window
+is switched to ‘True’ mode.",
+,RELATIVE,"When SCD Main Window
+is switched to ‘Relative’
+mode.",
+Display Filter,ON,"When a display filter is
+applied in SCD Main
+Window.",
+,OFF,"When NO display filter is
+applied in SCD Main",

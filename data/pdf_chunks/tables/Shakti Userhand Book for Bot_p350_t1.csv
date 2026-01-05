@@ -1,0 +1,6 @@
+5.5.4.2.20.35 Logout. User shall click on this menu item to logout of SCD application
+from SCD Main Window and go to ‘User Authentication’ GUI. Logging out from ‘’SCD
+application will disconnect SCD system from all other sub-systems & stop all logging
+"activities including the system recording. A confirmation GUI, as show in Figure-5.232,"
+"shall be displayed to user. If user clicks on ‘Yes’ option, ‘SCD Main Window’ GUI shall be"
+closed & ‘User Authentication’ GUI shall be displayed.

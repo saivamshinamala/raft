@@ -1,0 +1,3 @@
+5.5.4.6.6.5.1.3 DAU Raw Data Display. This shall display the digitized data acquired
+by the DAU after completion of data acquisition. The DAU Raw data plot shall be shown
+with respect to Sample Numbers (X-Axis) and Amplitude (Y-Axis).

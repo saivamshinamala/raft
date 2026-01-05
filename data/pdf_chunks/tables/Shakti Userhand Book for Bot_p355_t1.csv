@@ -1,0 +1,38 @@
+Parameter,Status,Description,Status GUI
+,,Window.,
+Zoom,ON,"When zoom is applied in
+‘Tactical, Situational or
+Map’ display in SCD Main
+Window.",
+,OFF,"When zoom removed or
+reset to default in all
+displays (Tactical,
+Situational & Map).",
+Auto Purge,ON,"If auto purge activity is
+enforced at ES Processor.",
+,OFF,"If auto purge is disabled at
+ES Processor.",
+Audio Alarm,‘Track Count’,"If audio alarm notification
+is enabled in SCD
+application & auto tones
+are assigned to particular
+signal types.",
+,DISABLED,"If audio alarm notification
+is enabled in SCD
+application.",
+"Warner
+Library","‘No. of
+Entries’","If ‘System Emitter Library’
+is loaded into SCD
+application.",
+,NONE,"If NO emitter library is
+selected.",
+"Auto Merge
+Mid-Band
+(2.2-18GHz)
+Tracks",ON,"If auto merging of mid-
+band tracks is enforced at
+ES Processor.",
+,OFF,"If auto merging of mid-
+band tracks is disabled at
+ES Processor.",

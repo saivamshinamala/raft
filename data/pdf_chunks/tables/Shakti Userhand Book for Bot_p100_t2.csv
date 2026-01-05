@@ -1,0 +1,5 @@
+2.3.1.2.3.1 Noise Generation Module along with DTO. DTO based Noise jamming
+techniques (Spot / Barrage) will be implemented by applying either digital or Analog noise
+added with DDS based ramp signal to the FM modulation port of DTO. In case of spot
+"noise technique, the DTO tuned at 6 GHz, is used as a local oscillator in DDUC for down"
+"converting the intercepted signal to the base band of DRFM. During up conversion, the"

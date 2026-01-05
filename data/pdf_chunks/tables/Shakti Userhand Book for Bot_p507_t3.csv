@@ -1,0 +1,10 @@
+"5.5.4.7.6.1 User Authentication (Login) GUIs. The underlying operating system, after"
+"completion of booting process, shall be configured to start FDL application automatically in"
+full screen mode. Operating System related applications/ tools shall not be visible to user
+"when FDL application is executing. By default, ‘Login’ GUI shall be displayed immediately"
+after starting FDL application.
+5.5.4.7.6.1.1 Register Administrator. If FDL application is executed for the very first
+time or if there are no user account details present in FDL computer then this GUI (as
+shown in Figure-5.379) shall be displayed to user for creating the first user (administrator)
+of the application. The Administrator shall be the super user with access to all the
+functionalities of FDL application.

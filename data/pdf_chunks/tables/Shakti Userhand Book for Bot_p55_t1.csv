@@ -1,0 +1,5 @@
+2.2.2.3.4 Bite Distribution Unit- N. The system can be tested in Bite mode for internal
+"Testing and Trouble shooting. In order to test in bite mode, a simple bite path is provisioned"
+in BB & NBrx with RF Bite Distribution Modules and Power dividers. Four BDUs were
+placed each on top of QSHR Stack assembly to feed Bite RF generated from DTO to
+QSHR.

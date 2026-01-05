@@ -1,0 +1,6 @@
+EA Transmitter Status,Color,"RGB Value in (R, G, B)
+Format"
+Ready,Yellow,"(255, 255, 0)"
+High Voltage (HV) ON,Orange,"(255, 192, 0)"
+Beam ON,Green,"(0, 255, 0)"
+VSWR Fault,Red,"(255, 0, 0)"

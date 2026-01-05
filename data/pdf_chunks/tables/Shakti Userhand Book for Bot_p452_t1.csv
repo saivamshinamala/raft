@@ -1,0 +1,12 @@
+5.5.4.6.8 Performing Emitter Identification. This enables the user to perform the
+Emitter Identification process in System Mode – FP and BITE Mode. The Emitter
+identification will be performed by establishing the connection with the database of Emitter
+"library, which will be built in Postgre SQL database. This will display the Emitter"
+Identification Search results that are obtained by performing level search. The Emitter
+Identity window shows list of Emitters in library matching with intercepted emitter. Emitters
+matching with confidence level greater than set confidence threshold are only shown.
+Emitter identification results are prioritized based on confidence level of match. The
+"details of Radar ID, Radar Name, Mode, Platform, and Confidence Level of Identification"
+will be shown in Emitter Identity window. The results of feature extraction will be utilized
+"to perform feature Identification, when either single track or multiple tracks are reported by"
+DSP.

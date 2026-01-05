@@ -1,0 +1,7 @@
+2.2.5.4 ESM Processor. ESM Processor Chassis is a part of Shakti ES system. It mainly
+"consists of three Pulse Processor (PP) boards, three Pulse Processor Rear Transition Module"
+"(PPRTM) boards, one Emitter Processor (EP) Board, one Emitter Processor Rear Transition"
+"Module (EPRTM) Board, one 5-slot VPX backplane and one AC-DC Power supply module."
+"This LRU receives Pulse Descriptor Word (PDW) data from RPU, RIB, RPB and LBP through"
+optical link. It processes the PDW and generates the track data and sends the track data to
+SCD for the display.

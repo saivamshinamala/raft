@@ -1,0 +1,4 @@
+5.5.4.7.6.1.2 Authenticate User. After successful installation of FDL application and
+"creation of ‘Administrator’ type of user, ‘User Authentication’ GUI shall be displayed to user"
+for logging into FDL application as shown in Figure-5.380. There shall be option on the
+GUI to recover forgotten password and option to shutdown FDL computer.

@@ -1,0 +1,16 @@
+Parameter,Description,Expected Values,Units
+TNo.,"‘Track Number’ of
+Emitter Reported by
+ES Processor or
+Manually Entered by
+User.","1 - 500: Tracks Reported by
+ES Processor.
+501- 510: Tracks Manually
+Entered by User.",None
+BRG,"‘Bearing (Heading)’
+Reported by EA
+System",0-360.0.,degree
+Freq.,"‘Frequency’ of
+Emitter",6000-40000.,MHz
+El,"‘Elevation’ Reported
+by EA System",-10.0-30.0.,degree

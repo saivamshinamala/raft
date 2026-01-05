@@ -1,0 +1,36 @@
+Parameter,Description,Expected Values,Units
+,,E/W: East/ West.,
+Status,"‘Status Code’ of
+Emitter","Max 5 Characters:
+C: Emitter is being Reported
+to CMS,
+M: Being Tracked and
+Jammed.
+N: Radar Finger Print NOT
+initiated from SCD.
+P: Radar Finger Print Results
+Pending from RFPS,
+R: Radar Finger Print Results
+Received,
+T: Emitter is being ‘Tracked’
+by EA System,
+J: Emitter being is ‘Jammed’
+by EA System.
+L: Emitter is being Reported
+to LRSAM,
+K: Emitter is being Reported
+to KAVACH,",None
+Ch.Rate,"‘Chirp Rate’ of
+Emitter",1-100.,MHz
+Freq.Min.,"‘Minimum Frequency'
+of Emitter",175-40000.,MHz
+Freq.Max.,"‘Maximum
+Frequency’ of
+Emitter",175-40000.,MHz
+PWMin.,"‘Pulse Width
+Minimum’ of Emitter","0, 50ns-1000000.",ns
+PWMax.,"‘Pulse Width
+Maximum’ of Emitter","0, 50ns-1000000.",ns
+HC,"‘Track Hit Count’ of
+Emitter. Number of
+Times Emitter is",1-65535.,None

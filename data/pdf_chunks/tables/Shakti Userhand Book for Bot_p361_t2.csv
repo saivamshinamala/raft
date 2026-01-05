@@ -1,0 +1,5 @@
+5.5.4.2.24 Application Tool Bar. Tool bar (as shown in Figure-5.241) of SCD Main
+Window shall contain short cut buttons (tool buttons) to the most recently used (executed)
+EW operations. Tool buttons representing similar (logically related) functionalities shall be
+grouped together on this tool bar. Each tool button shall have a tool tip text and it shall be
+displayed when user places mouse cursor on it. These tool buttons shall be in sync with

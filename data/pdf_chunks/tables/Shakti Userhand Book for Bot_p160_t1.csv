@@ -1,0 +1,19 @@
+Ser,"Control
+Switch/LEDs",Description
+,,Ethernet switch #1 also powered on remotely.
+5,EA ON,"Press ‘EA ON’ switch and observe EA Rack-1, EA Rack-
+2, MMJ AC/DC units, MBJ AC/DC units and CU health
+status indication on console desk."
+6,SCD ON,"Press ‘SCD ON’ switch and observe SCD processor,
+Monitor1 and Monitor2 are powered ON."
+7,BATTLE SHOT,"Set the key lock in ‘ON’ position for routing DC (24V) to
+EA RACK1 unit."
+8,ES STATUS,This indicates the status of ES processor health status.
+9,EA STATUS,This indicates the status of EA processor health status.
+10,JAM INIT,"Press ‘JAM INIT’ switch and observe that the internal
+LED of the switch glows and the control voltage (24VDC)
+is routed to jammer Unit."
+11,ES RESET,"Press ‘ES RESET’ button and observe ES and its LRUs
+are powered on once again."
+12,EA RESET,"Press ‘EA RESET’ button and observe EA and its LRUs
+are powered on once again."

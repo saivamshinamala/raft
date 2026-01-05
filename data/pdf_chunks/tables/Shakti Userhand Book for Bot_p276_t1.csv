@@ -1,0 +1,6 @@
+5.5.4.2.12.21 BB RX2 (18-40GHz) – Calibration Mode. User shall login into SCD
+application in ‘Online Mode’ and SCD Main Window shall be displayed to access this GUI.
+User shall click on ‘BB Rx2 (18-40GHz)->Calibration’ menu item from ‘ES Receiver’ menu
+and a GUI (as shown in Figure-5.133) shall be displayed to enable/ disable calibration at
+BB Rx2 (18-40GHz). The GUI shall retain the previous configuration parameters selected
+& applied by user.

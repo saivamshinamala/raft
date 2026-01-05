@@ -1,0 +1,8 @@
+2.3.2.3 Transmitter Unit (HB). This sub-system employs a Servo based transmitter
+with 10KW ERP to handle conventional and exotic Radars. The transmitter amplifies the
+"modulated jammer RF signal using TWT, and radiates through narrow beam jammer"
+"antenna having a beam width of 7 X 7 @ 37 GHz, to achieve the required ERP. Two"
+"transmitters will be positioned, one each on Port & Starboard side of the Foremast and"
+"each transmitter covering 180 sector, capable of handling one threat per sector. These"
+transmitters are positioned on two axis servo pedestal to position the narrow jammer beam
+"on the threat radar based on DOA information and to compensate the roll, pitch and yaw"

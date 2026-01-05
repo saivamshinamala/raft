@@ -1,0 +1,14 @@
+"2.3.3.2 LVPS (MB2). The input supply 230V, 50 Hz, 1Ø required for LVPS (MB2) is"
+"derived from ship supply of 415V, 50 Hz, 3Ø through Step down Transformer. This unit"
+"generates Output DC Voltages of ±5V, ±15V, and 28V which are required for the Lower"
+"Power (MB2) & Transmitter (MB2) Units. Hence two LVPS (MB2) units are configured,"
+which are required for the Lower Power (MB2) & Transmitter (MB2) Units on the Port side
+and Star Board side.
+"2.3.3.3 LVPS (HB). The input supply 230V, 50 Hz, 1Ø required for LVPS (HB) is"
+"derived from ship supply of 415V, 50 Hz, 3Ø through Step down Transformer. This unit"
+"generates Output DC Voltages of ±5V, ±15V and 28V which are required for the Lower"
+"Power (HB) & Transmitter (HB) Units. Single LVPS (HB) caters the DC Voltages, which"
+are required for the Lower Power (HB) & Transmitter (HB) Units on the Port side and Star
+Board side.
+2.3.4 EA Rack-2. Pictorial view of EA RACK-2 is shown below in Figure 2.66. This
+sub-system is configured with the following Units.

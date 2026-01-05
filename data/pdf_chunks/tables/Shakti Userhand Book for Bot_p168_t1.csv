@@ -1,0 +1,7 @@
+after starting SCD application. The following sections describe ‘user authentication’ related
+GUIs and their HMI requirements.
+5.5.4.1.1 Register Administrator. If SCD application is executed for the very first time
+or if there are no user account details present in SCD computer then this GUI (as shown
+in Figure 5.9) shall be displayed to user for creating the first user (administrator) of the
+application. The administrator shall be the super user with access to all the commands
+including modifying EW system configuration parameters.

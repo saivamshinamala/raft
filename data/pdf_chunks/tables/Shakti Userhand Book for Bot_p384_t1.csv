@@ -1,0 +1,38 @@
+Parameter,Description,Expected Values,Units
+BRG,"‘Platform Bearing
+(Heading)’ Reported
+by ESI through ES
+Processor",0-360.0.,Degree
+Rx.,"‘Name of Receiver’
+from which the
+Emitter is Reported","NBRx1: Narrow Band
+Receiver1 (0.175-0.5GHz),
+NBRx2: Narrow Band
+Receiver2 (0.5-18GHz),
+BBRx1: Broad Band
+Receiver1 (2.2-18GHz),
+BBRx2: Broad Band
+Receiver2 (18-40GHz),
+*BBRx1: Emitter is reported
+in both BB Rx1 & NB Rx2.",None
+Freq.,"‘Frequency’ of
+Emitter",175-40000.,MHz
+Freq. Type,Frequency Type,"AGP :Pulse to Pulse Agile
+AGS :Pulse to Scan Agile
+CH: Chirp
+CW: Continuous Wave
+F: Fixed",None
+P.Type,Pulse type,"CW: Continuous Wave,
+FM: Freq. Modulation on
+Pulse (Bi-Linear Chirp),
+FMC: Frequency Modulation
+on Pulse CW (FMCW),
+LD: Linear FM Down on
+Pulse (Down Chirp),
+LU: Linear FM Up on Pulse
+(Up Chirp),
+RM: Phase Modulation on
+Pulse (Barker),
+RG: Regular (Fixed),
+U: Unknown.",None
+PW,‘Pulse Width’ of,"0, 50ns-1000000.",ns

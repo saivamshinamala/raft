@@ -1,0 +1,6 @@
+5.5.4.6.9 System Record Feature. This feature shall enable the user to capture and
+store the DAU raw data for designated ESM tracks. It shall be intimated to the SCD that
+the data has only been recorded. For this captured data the fine grain analysis shall be
+performed offline.
+5.5.4.6.10 Datalog Menu. This feature shall allow the user to select required Datalog
+menu options like TFGD and DAU Raw Data.

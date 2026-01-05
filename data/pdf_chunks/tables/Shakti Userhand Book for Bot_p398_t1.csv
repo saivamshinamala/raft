@@ -1,0 +1,52 @@
+Parameter,Description,Expected Values,Units
+EA Status,"‘Current Status’ of
+EA Activity on
+Emitter","Desig.: Emitter is
+Designated,
+Track.: Emitter is being
+Tracked,
+PRISync.: PRI Tracker is
+Synced,
+AngleTrack.: Angle Tracking
+is ON,
+Jam.: Emitter is being
+Jammed.",None
+JPRO Technique,"‘Name of JPRO
+Technique’ Currently
+Applied by EA
+System on Emitter.
+Name Format:
+Technique1, Angle1
++
+Technique2, Angle2
++
+Technique3, Angle3
+One or more (max 3)
+Techniques may be
+Applied on Emitter.","Technique1, 2, 3:
+DRFMSpot: DRFM Spot
+Noise,
+DRFMBar: DRFM Barrage
+Noise,
+DTOSpot: DTO Spot Noise,
+DTOBar: DTO Barrage
+Noise,
+MultiSpot: Multiple Spot
+Noise,
+DopplerN: Doppler Noise,
+VGPO: Velocity Gate Pull
+Off,
+VGPI: Velocity Gate Pull In,
+SyncRec: Synchronous
+Range Velocity Receding,
+SyncApro: Synchronous
+Range Velocity Approaching,
+RGPO: Range Gate Pull Off,
+RGPI: Range Gate Pull In,
+RangeFT: Range False
+Targets,
+Vel.FT: Velocity False
+Targets.
+Angle1, 2, 3:
+Blink: Blink Deception,
+SRM: Swept Rate Modulation",None

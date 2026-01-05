@@ -1,0 +1,46 @@
+Ser.,Faults,Possible Cause,Corrective action
+1,"Link failure between
+EAP and MB2
+Jammer",Inter Lock Issues,"Observe any faults reported
+at LCU like TEMP and
+FLOW errors. TEMP OK
+and FLOW OK are the inter
+locks to Switch ON the
+power supplies of MB2
+Jammer."
+,,"Ethernet switch could
+be defective","Check ETH SW2 and its
+connections"
+2,"Tracking issue
+during Track and
+JAM command in
+case of Deception
+Jamming Technique
+and Spot Technique","Track could be passive
+on SCD","For a given track and JAM
+command for a particular
+intercepted track on SCD,
+observe the Track should be
+in Active condition during
+Track and Jam command."
+,,"Any obstruction to the
+receiving Antennae","Check there is no
+obstruction on RX antenna
+such that all the time RF
+illumination should be on Rx
+antenna and also Check the
+functionality of Front End
+Unit."
+,,"Blanking may be the
+issue","Check the cable between
+ESI to the EA RACK-1 to be
+connected properly
+(Blanking signal from ESI to
+the EA rack-1)"
+3,"Link failure between
+RFC, NG and CIB","LVPS(MB2) could be
+problem","Observe any power supply
+failure in the LVPS-4 and
+monitor the voltages in front
+panel. if supplies found not
+OK replace the supply."

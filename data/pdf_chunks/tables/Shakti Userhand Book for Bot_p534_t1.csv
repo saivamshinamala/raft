@@ -1,0 +1,49 @@
+Ser.,Faults,Possible Cause,Corrective action,,,
+,,,,,MASS/J14,
+,,,,Omni Rx2/J4,"Omni
+MASS/J15",
+RFPS Chain,,,,,,
+1,"RFPS Link Not OK a.
+b.
+c.
+d.","RFPS Chassis may not
+be powered ON.","Check Power ON of RFPS
+Chassis.",,,
+,,"Ping to IP Address:
+192.168.5.100 of RFPS
+may not be OK","Check Ethernet cable
+connectivity between RFPS
+and Ethernet switch-1 (EW-
+27 from Rack-2 J22 and EW
+64 from J24 of Rack-2) and
+SCD and Ethernet SW-3
+(EW-40)",,,
+,,,"Connect cable properly /
+replace if faulty.",,,
+,,,"Ethernet Switch 1 or 3 may
+not be OK or not Powered
+ON.",,,
+,,"RFPS IP address and
+Port number in SCD
+MMI may not be
+entered correctly.","Go to Offline in MMI and
+Verify the IP Address
+(192.168.5.100) and Port No
+(3600) of RFPS.",,,
+,,,"If Not OK correct it and go to
+online and check the status
+of Link.",,,
+,,"RFPS Application may
+not be triggered
+properly","Restart the RFPS
+Application and check the
+Link.",,,
+2,"RFPS status is Red
+and Link is Green in
+SCD MMI","DAU/DSP card may be
+faulty","Re-load/Replace the
+defective card.",,,
+3,"Key board or tracker
+ball not detected in","Synergy link faulty
+between SCD SBC and","Check Ethernet connection
+“RFPS-SCD SYNERGY” in",,,

@@ -1,0 +1,8 @@
+5.5.4.2.13.10 Manual Mode – Stop Jam. Refer section ‘5.5.4.2.28.2 Semi-Auto
+Mode->Stop Jam’.
+5.5.4.2.13.11 Manual Mode – Break Track. Refer section ‘5.5.4.2.28.2 Semi-Auto
+Mode->Break Track’.
+5.5.4.2.13.12 Manual Mode – Update Track Information. User shall click on this menu
+item to update parameters of emitter that is handled (track/ track & jam) by EA Processor
+in ‘Manual’ mode. A GUI (as shown in Figure-5.145) shall be displayed to user for
+modifying emitter details manually on the GUI. No emitter details will be provided by ES

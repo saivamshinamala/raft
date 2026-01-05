@@ -1,0 +1,5 @@
+5.5.4.5.12 BITE – Update ES Auto BITE Reference Data. User shall login into SCD
+application in ‘Online Mode’ and SCD Main Window shall be displayed to access this GUI.
+User shall click on ‘BITE->Update ES Auto BITE Reference Data’ menu item from ‘System’
+menu and a GUI (as shown in Figure-5.279) shall be displayed to update the BITE data in
+SCD application. The GUI shall retain the previous BITE data selected & applied by user.

@@ -1,0 +1,6 @@
+2.2.2.3 BB & NB RX (LB2-MB). Broadband and Narrow Band Receiver AHU is
+configured to achieve a wide frequency coverage of 0.5-18 GHz with selectable modes
+of operation for better interception ranges and higher accuracy of direction finding. BB &
+NB Rx AHU is the integration of Broad Band and Narrow Band Receivers. It consists of 2.2
+- 18 GHz Broad Band Receivers and 0.5-18 GHz Narrow Band Receivers which measures
+Direction of Arrival (DOA) using 4 channel Base Line Interferometry (BLI) technique.

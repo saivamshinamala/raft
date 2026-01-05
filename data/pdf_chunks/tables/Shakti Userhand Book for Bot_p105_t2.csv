@@ -1,0 +1,9 @@
+2.3.1.5 Servo Drive Assembly (1-Axis). The 6-18 GHz transmitter unit employs
+"electronic beam scanning concept using the Transmitter unit (MB2), the azimuth directional"
+alignment is taken care by proper beam switching. The elevation plane alignment has to
+be done using a ‘Roll stabilization platform’. The Tx (MB2) hardware is placed on this
+"platform which gets Roll information data from ship’s SHHD through ESI. In the design, the"
+Pitch information is not taken for stabilization as the maximum effect is achieved using roll
+data itself. The Roll stabilization will be applied in accordance with Roll data ensuring the
+alignment of the Tx antennae in the elevation plane. The Block diagram and Pictorial view
+of Servo Drive Assembly (1-Axis) is shown in Figure 2.49 & Figure 2.50.

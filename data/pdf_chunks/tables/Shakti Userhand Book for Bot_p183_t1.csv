@@ -1,0 +1,4 @@
+shall be displayed with a print preview of selected emitter library file. User shall click on
+‘print’ icon on this GUI to take print out on network printer. Note: only user selected emitter
+parameters will be displayed in print preview. User shall click on ‘exit’ icon on this o close
+print preview and go to ‘emitter library management’ GUI.

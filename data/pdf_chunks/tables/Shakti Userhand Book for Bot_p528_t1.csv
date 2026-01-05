@@ -1,0 +1,47 @@
+Ser.,Faults,Possible Cause,Corrective action
+,,inserted properly/Faulty,"Status LED indications.
+If still not working Replace
+SBC board."
+,,"ESM processor may
+not be working.","Check at ESMP processor
+follow ESMP fault diagnosis
+procedure."
+2,"No mains Indication
+on Console.
+SCD Processor/
+LRU Power on LED
+not glowing","Rack MCB might be
+OFF","Check MCB position of Rack
+and the status on front panel"
+,,"Power on toggle
+switches might be in off
+position.","Keep it in ON position.
+(Switches are separate for
+RFPS and SCD on front
+Panel."
+,,"Input power supply may
+not be available","Check input power supply at
+connector P301 (Between A-
+B pins)"
+,,"Power ON LED may be
+faulty",Replace LED
+,,"PDIU may not be
+working","Troubleshoot PDIU unit
+because AC supply routes
+through it"
+3,Blowers not working,"Supply not reaching to
+blowers","Check if MCB /Toggle switch
+are ON and supply is
+reaching to blowers"
+,,Blowers might be faulty,Replace the blowers.
+4,"Display Not coming/
+Blur","DVI cable may not be
+working",Replace the DVI cable
+,,"Monitor Resolution
+settings may not be
+correct","Change the Resolution,
+Make the correct resolutions
+settings at OSD menu"
+,,Monitor Might be faulty.,Replace the Monitor
+External System Interface Unit (Esi),,,
+1,ESI to SCD Ethernet,ESI may be faulty,Carry out pinging checks

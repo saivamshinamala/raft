@@ -1,0 +1,4 @@
+5.5.4.6.8.3 Emitter Identification – Match Not Found. After performing Emitter
+"Identification, if match not found for intercepted emitter in Emitter library, the Finger Print"
+data without EI results will be sent to SCD. A message box will appear indicating the same
+"and if the user desires, the emitter details will be added as a new emitter to the database."

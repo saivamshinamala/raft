@@ -1,0 +1,47 @@
+Ser.,Faults,Possible Cause,Corrective action
+,Link is Down,,"192.168.5.40. If pinging is
+not ok from Ethernet Switch-
+1 replace the ESI."
+,,"SCD SBC may be
+faulty","Carry out pinging checks
+192.168.5.40. If pinging is ok
+from Ethernet Switch-1 but
+pinging is not coming from
+SCD terminal then replace
+SCD SBC."
+2,"GYRO NO
+DATA/NO GPS
+DATA in SCD.",SDN may be faulty,"Pinging SDN IP address
+(192.168.2.25) from Ethernet
+Switch-4 using laptop may
+not be ok. Then debug SDN
+side."
+,,ESI may be faulty,"Pinging ESI IP address
+(192.168.2.45) from Ethernet
+Switch-4 using laptop may
+not be ok. Then replace ESI."
+3,"Heading is not
+coming but roll and
+pitch data is coming
+in SCD.","ESMP to SCD link may
+be down","Check ESMP to SCD
+Ethernet connections."
+4,"Radar
+Blanking is
+not taking
+place at ESI output","Radar PRE SYNC may
+be problem","Radar PRE SYNC pulse is
+not available at input of ESI."
+,,ESI may be faulty.,"Pre-Sync available at the
+input of ESI but blanking
+pulses are not observed at
+corresponding pins of J3 and
+J4 connectors then replace
+ESI. Replace ESI."
+0.175-500MHz Narrow Band Chain,,,
+1,"Ethernet Link Down
+No Track and No
+PD count","Power Supply (AHU1-
+LB1) in ES RK-2","Check PSU i/p A.C voltage
+and DC Outputs.
+Check A.C. Supply to Rx"

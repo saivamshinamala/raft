@@ -1,0 +1,29 @@
+Ser,Requirements,Specification
+,,"{Each JPL should have at least 3 responses
+with response time (in sec) programmer
+selectable)."
+47,Beam Width,
+,6-18 GHz,"Min in Elevation = 10°±1°
+Min in Azimuth = 6.5°±1°"
+,18-40 GHz,Min in Elevation & Azimuth = 6.5°±1°
+48,Polarization,Slant 45°
+49,"Reaction Time from Standby
+Mode.","02 Sec (Max) for Multi-Beam jammer.
+05 Sec (Max) for 18-40 GHz (if servos are
+used, then this time shall be inclusive of the
+time required for servos to position the
+jammer towards the threat direction). Note: -
+If servos are provided for 18-40 GHz,
+operator shall be able to preposition the
+jammer in desired direction even without the
+availability of threat signal. This facility shall
+be provided to ensure better reaction times if
+the direction of threat is known."
+50,Steering Accuracy,1° (One degree)
+51,"Manual mode Jamming as well as Auto mode Jamming for designated threat
+in library.",
+,"Jammer programming, Jammer tuning capability and validation capability.",
+,"Capability to transmit jamming signal on desired frequency and direction
+manually even in absence of any threat signal.",
+,"Availability of pre-programmed jammer programs for Noise jamming, AGPO
+& RGPO for use against threats where programmed JPLs are not available.",

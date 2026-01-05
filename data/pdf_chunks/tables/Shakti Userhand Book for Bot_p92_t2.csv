@@ -1,0 +1,9 @@
+"2.3.1.1 MB2-Front End Assy. To receive the RF signal in 6-18 GHz band, Front-end"
+Unit (MB2) is configured with two Front-end (MB2) modules and two sectoral horn
+"antennae for covering 180 sector. This module intercepts the radar threat signals of slant,"
+"vertical, horizontal and circular polarizations from the environment through two"
+independent sectoral horn antenna switch polarizer embedded Radome having minimum
+"gain of 7 dB, each covering an angle of 90 X 10, in the frequency range of 6-18 GHz."
+The received signal from each quadrant is amplified to the required level in the respective
+front-end units. This Unit is located on the top of the Transmitter Unit to improve the
+sensitivity of the EA system.

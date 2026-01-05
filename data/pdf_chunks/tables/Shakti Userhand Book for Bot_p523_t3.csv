@@ -1,0 +1,9 @@
+(a) Servos systems: Both the servos to be switched ON once in a week. Need
+to wait for the full BIT check. After becoming standby state Servos can be switched
+OFF.
+(b) MPM: TX MB2 Jammer needs to be power ON at least once in month.
+Initially power ON the TX MB2 Unit and wait for the heater ON (3 min) and apply HV
+ON. Then proceed for barrage jamming for 1 min.
+(c) TWT: TX HB Jammer needs to be power ON at least once in month.
+Initially power ON the TX HB Unit and wait for the heater ON (3 min) and apply HV
+ON. Then proceed for barrage jamming for 1 min.

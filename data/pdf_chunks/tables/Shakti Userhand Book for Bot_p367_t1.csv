@@ -1,0 +1,9 @@
+Track Type,Color
+"Hostile/ Warned/
+Lock-On Track",Red
+Unknown Track,Yellow
+Known Track,Green
+Passive Track,White
+Spurious Track,Grey
+Manual BITE Track,Orange
+Auto BITE Track,Cyan

@@ -1,0 +1,4 @@
+5.5.4.2.12.1 NBRx1 (0.175-0.5 GHz) – Directed Mode. User shall login into SCD
+application in ‘Online Mode’ and SCD Main Window shall be displayed to access this GUI.
+"When user clicks on this menu item, a GUI (as shown in Figure-5.113) shall be displayed"
+to put NB Rx1 (0.175-0.5GHz) in ‘Directed’ mode of operation. The GUI shall retain the

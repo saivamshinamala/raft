@@ -1,0 +1,7 @@
+"6.2.1 Level-1 Maintenance. This level of maintenance includes daily routines, weekly"
+"routines, monthly routines, quarterly routines, half yearly routines and yearly routines."
+This level checks can be carried out on board itself. The operator runs the BITE (either
+auto BITE or maintenance BITE or both) and observes the status of the system and
+rectifies the problem on board itself using onboard spares. The defective PCB /
+subsystem / component should be given to shop floor for repair. For details refer
+Maintenance Manual Chapter no I Para no 1.2.1.9.

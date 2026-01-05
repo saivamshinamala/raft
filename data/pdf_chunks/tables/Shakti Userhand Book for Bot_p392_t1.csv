@@ -1,0 +1,6 @@
+"5.5.4.2.26 Detailed Parameters Window. This window shall present a GUI, as shown"
+"in Figure-5.260, to display & update the detailed list of emitter parameters received from"
+"ES Processor. Also, emitter identity details, if library matched, shall be displayed on this"
+GUI. User shall double click on an emitter in ‘Tabular Display’ to activate this GUI. This
+GUI shall be displayed in the centre of SCD Main Window and shall be floatable (movable)
+to any place on SCD Main Window.

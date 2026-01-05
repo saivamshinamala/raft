@@ -1,0 +1,4 @@
+2.2.5.2 H/W RIB &QDR VPX Chassis. The QDR RIB System is an air cooled 19”
+chassis with a custom designed VPX backplane. Four conduction cooled boards (QDR)
+with VPX connectors will be top loaded on to the back plane. The data transfer between
+the boards and the external receivers which are outside the VPX Chassis is carried out

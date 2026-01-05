@@ -1,0 +1,11 @@
+used for the Roll Stabilization of the Tx (MB2) unit. After receiving command from EA
+"Processor, Stabilization correction will take place according to the roll information supplied"
+by the ship. Single SCU catering for both Port and the Star board pedestals. Block diagram
+of SCU (1-Axis) is shown below in Figure. 2.67.
+2.3.4.2 Servo Control Units (2-Axis). SCU (2-Axis) basically controls the movement
+of SDA (2-Axis) in azimuth and elevation planes. It receives the commands from ECM
+processor and moves the pedestal in the required direction. Also 2-Axis servo system
+stabilizes the pedestal based on roll & pitch information. The stabilization correction will
+take place according to the roll and pitch information supplied by the ship. Single SCU
+catering for both Port and the Star board pedestals. Block diagram of SCU (1-Axis) is
+shown below in Figure. 2.68.

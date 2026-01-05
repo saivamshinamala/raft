@@ -1,0 +1,6 @@
+2.3.2.2 Low Power Unit (HB). This Unit receives the 18-40 GHz threat signal from the
+"environment for which jamming action is initiated by ES system, using sectoral horn"
+antenna and front end Unit covering 180sector.As each LP Unit requires handling of single
+"threat simultaneously on each sector, a double down/up converter module with a 1-channel"
+"activity detection module is configured to handle the threat signal on pulse-by-pulse basis,"
+leading to an improvement in jamming effectiveness.

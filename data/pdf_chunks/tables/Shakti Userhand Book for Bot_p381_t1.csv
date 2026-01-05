@@ -1,0 +1,25 @@
+Tool Button,Description,"Expected Behaviour after
+Mouse Click"
+,Show Full Map,"Show complete map on display with full
+extents of map fitting into ‘Map Display’
+area."
+,"Show/ Hide Grid
+Lines on Map","This will be toggle button. Grid lines
+(latitude & longitude lines) shall be
+displayed/ hidden if user checks/
+unchecks this tool button."
+,"Measure Distance
+Between Two
+Points on Map","User shall be allowed to select two points
+on map using mouse to find distance &
+bearing between them."
+,"Measure Distance
+Between Platform
+& a Point on Map","User shall be allowed to select a point on
+map using mouse to find distance &
+bearing of this point from current Platform
+position."
+,"Show Mouse
+Pointer on Map","Mouse point shall be displayed on map.
+Any functionality if assigned to mouser
+cursor shall cease to work."

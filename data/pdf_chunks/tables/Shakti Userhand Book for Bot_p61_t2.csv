@@ -1,0 +1,7 @@
+2.2.3 ES AHU-3. AHU-3 consists of 18-40 GHz frontend electronics. It receives the RF
+intercepted by 18-40 GHz biconical antenna and amplifies the RF/video. The output of
+these units is used for measurement of DOA of the intercepted emitters in 18-40 GHz band
+using TDOA technique. Four AHU-3 units are mounted on yard arms with 10mtrs spacing
+to calculate DOA of intercepted signal. ES AHU-3 is a frontend RF module to intercepts
+the external emissions in 18-40 GHz band. It can be operated either in RF mode or in BITE
+mode.

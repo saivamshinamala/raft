@@ -1,0 +1,6 @@
+5.5.4.2.20.31 Current Configuration – Save to Another File. User shall click on this
+menu item to save the current (after login) configuration of the EW system to a file selected
+by user on SCD storage. User can select this same file at the login and start SCD
+application with this configuration. Description on SCD application configuration is given in
+"section ‘5.5.4.2.5 System Configuration’. A GUI, as shown in Figure-5.228, shall be"
+displayed to user to select a file name on SCD storage.

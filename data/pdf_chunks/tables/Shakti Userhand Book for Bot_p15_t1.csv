@@ -1,0 +1,14 @@
+Ser,Parameter,Specification
+,,(b) Auto scan designated mode for 2.2-18 GHz.
+14,MMI,"Separate display for RFPS for displaying inter/intra-
+pulse features in graphical as well as textual
+formats."
+15,Field Data Loader,Uploading/downloading of RFPS Library data.
+16,IF Signal Processing,"1000 MHz IF with 500 MHz bandwidth & 160 MHz
+IF with bandwidth of 40 MHz."
+17,Display Formats,"Inter & Intra pulse data to be presented in textual &
+graphical formats. Tabular, Histograms &
+Overlapped formats to be used for presenting the
+data, Activity display and 3-D plots."
+18,Data Storage,"Provision to store digitized IF samples for off-line
+analysis."

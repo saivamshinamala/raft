@@ -1,0 +1,7 @@
+2.3.1.2 Low Power Unit (MB2). This Unit receives the threat signals from the Front
+"End Unit (MB2) for which jamming action is initiated by ES system, using two sectoral"
+"receiving horn antennae and two front end Units, each covering 90 thus covering 180"
+sector in total. As each LP Unit requires handling of four threats simultaneously on each
+"sector side, a double down/up converter module with a 4-channel activity detection module"
+"is configured to handle the threat signals on pulse-by-pulse basis, leading to an"
+improvement in jamming effectiveness.

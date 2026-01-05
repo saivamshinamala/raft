@@ -1,0 +1,5 @@
+5.5.4.2.31 Application Status Bar. SCD application status bar shall display context
+based information as on when the user positions the mouse pointer / keyboard-key over a
+"menu item in the menu bar/ tool bar. It shall also display ‘Logged in User Name’, ‘System"
+"Mode’ (CMS Controlled or Standalone), ‘SCD Application Version’, ‘System Date & Time’"
+as shown in Figure-5.273.

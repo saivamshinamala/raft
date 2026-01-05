@@ -1,0 +1,48 @@
+Ser.,Faults,Possible Cause,Corrective action
+1,"No Track on Display,
+No PD Count
+Available.","Controls to Receiver
+may be faulty.","Check that LEDs D1, D2, D3
+and ‘C’ (CLK) on all QDRs
+are glowing. Otherwise
+Replace QDR. Check that
+Pin ‘69’ of J1 on ES Rack-1
+is High."
+2,"No Track on Display,
+but PD Count
+Available","Connection between
+RIB and ESMP may be
+faulty.","Verify the Connection
+between RIB and ESMP.
+Check LED D5 on PPD-2 is
+glowing."
+3,"Ethernet Link is not
+OK","Processor Boards
+(ESMP-PPD3 or RIB)
+may be faulty.","Ping 192.168.5.90 (ESMP –
+PPD3), 192.168.5.4 (RIB).If
+any IP address is not
+pinging, Replace the module."
+4,"Manual BITE Track
+not displayed","DTOs in AHU-4 may be
+Faulty.","Check whether o/p of 2-18
+GHz DTO and 0.5-2GHz
+DTO in AHU-4 are OK or
+NOT OK."
+5,"No DF data /DF
+Errors",QDR may be faulty.,"Reload Phase Data in QDR.
+If Still problem exists,
+Replace QDR."
+6,Frequency errors,"Synthesizer in BB and
+NB RX AHU may be
+faulty.","Check that LO i/p at QSHR
+is correct. If any problem
+found, Replace Synthesizer."
+7,Power supply failure,"Any module in LVPS-1
+may be faulty.","Observe the LEDS PS5 to
+PS11on LVPS-1. If any LED
+is not glowing the
+corresponding output voltage
+is NOT OK. Replace the
+power supply module."
+18-40GHz High band Chain,,,

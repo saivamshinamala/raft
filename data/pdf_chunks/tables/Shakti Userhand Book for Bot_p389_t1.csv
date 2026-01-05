@@ -1,0 +1,4 @@
+5.5.4.2.25.4.3 Latest Emitters Window. ‘Latest Emitters Window’ shall present the
+parameters of latest 6 emitters (ordered as per TOFA with recent first) in a tabular format
+as shown Figure-5.255 Latest Emitters Window GUI – SCD Main Window. Columns of this
+window shall be same as ‘Emitter Report Window’.

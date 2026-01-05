@@ -1,0 +1,10 @@
+2.2.2.1.4 Front End Receiver (2-18GHz). 2.2-18 GHz RF is passed through the FER
+"module of RFPS Chain, Programmable Attenuator and LNA. The Programmable"
+Attenuator is having two bits for attenuation levels from 0 to 24dB in step of 8dB for each
+bit. This signal is further amplified using a LNA and given to Omni Mass module.
+2.2.2.2 Omni Mass Module. Omni Mass Module is the sub module of 18-40 GHz band
+of shakti ES System.18-40 GHz band consists of two Omni Receivers and will be fitted on
+either side of pole mast to cover 360° receptions. Both Omni Receivers down converted
+RF will be passed through omni mass module which consists of EDLVAs to convert RF
+"and video. Omni Mass Module provides amplitude data, band selection and RFP TO AHU-"
+4 to measure the incoming pulse parameters.

@@ -1,0 +1,41 @@
+Ser.,Faults,Possible Cause,Corrective action
+,,,"maintenance activity on 2-
+Axis servo"
+2,"Roll pitch
+stabilization issue for
+the single Axis servo","SDA-1Axis Homing
+Issue.","Observe the Servo link
+status to be in green color in
+EA window of SCD. Check
+all the servo related cables
+should be connected
+properly."
+,,"Stow lock might be
+pressed","Check the Stow lock lever is
+in released condition. Else,
+do the necessary
+maintenance activity on 1-
+Axis servo"
+3,Servos link failure,"Stow lock might be
+pressed.","Disengage the stow locks,
+Emergency switches and
+verify the links."
+,,"Might be switched on in
+maintenance mode","Put the mode switch in
+AUTO mode"
+4,"2-axis servo display
+is hanged","2- axis SDA cables
+might not connected","Check the cable connectivity
+of the SDA to SCU cables"
+HEAT EXCHANGER UNIT(HEU),,,
+1,Interlock issue,Temperature sensor.,"Monitor the input
+temperature reading at
+display HEU and check
+temperature 20º  2º at
+temperature sensor if it is
+not equal to specified value
+replace the temperature
+sensor."
+,,Pressure Sensors.,"Replace the pressure
+sensor after checking outlet
+water flow in good condition."

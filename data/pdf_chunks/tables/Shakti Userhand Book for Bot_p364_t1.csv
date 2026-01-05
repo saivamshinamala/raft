@@ -1,0 +1,43 @@
+Tool Button,Description,"Expected Behaviour after
+Mouse Click"
+,"Directed Mode/
+Directed Search
+Mode","Search Mode’ GUI shall be displayed to user
+put the receiver in ‘Directed Mode/ Directed
+Search Mode’ when user is logged with
+‘Administrator’/ ‘Commander or Operator’
+access rights."
+,"Set Lockout
+Frequency Bands","GUI to set ‘Lockout Frequency Bands’ shall be
+displayed to user. If set successfully, the same
+shall be applied in ‘Emitter Presentation
+Windows’."
+,"Remove Lockout
+Frequency Bands","GUI to remove (reset) ‘Lockout Frequency
+Bands’ shall be displayed to user. If set
+successfully, the same shall be applied in
+‘Emitter Presentation Windows’. By default, no
+lockout frequency bands shall be enforced."
+,Set Lockout Sectors,"GUI to set ‘Lockout Sectors’ shall be displayed
+to user. If set successfully, the same shall be
+applied in ‘Emitter Presentation Windows’."
+,"Remove Lockout
+Sectors","GUI to remove (reset) ‘Lockout Sectors’ shall
+be displayed to user. If set successfully, the
+same shall be applied in ‘Emitter Presentation
+Windows’. By default, no lockout sectors shall
+be enforced."
+,"Purge Passive
+Tracks","‘Purge Passive Tracks’ message shall be sent
+to ES Processor. If successful, passive tracks
+shall be purged."
+,Rebuild Tracks,"‘Rebuild Tracks’ message shall be sent to ES
+Processor. ES tracks shall be removed from
+‘Emitter Presentation Windows’ if successful."
+,"Enable ‘Auto Merge
+of Mid-Band Tracks’/
+Disable ‘Auto Merge
+of Mid-Band Tracks’","GUI to ‘Merge Mid-Band Tracks’ shall be
+displayed to user. If auto merge is enabled &
+applied, the same shall be sent to ES
+Processor."
