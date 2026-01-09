@@ -1,5 +1,0 @@
-5.5.4.2.11.15 Reset. User shall click on this menu item to reset ES Processor. Resetting
-ES Processor will remove all the existing tracks/ PDs and ES Processor will start rebuilding
-"tracks afresh”. Hence, user shall be aware of the operation and use it only when necessary."
-"A confirmation GUI, as shown in Figure-5.111, shall be displayed to user. If ES Processor"
-"is reset successfully, all the tracks shall be removed from emitter presentation windows."

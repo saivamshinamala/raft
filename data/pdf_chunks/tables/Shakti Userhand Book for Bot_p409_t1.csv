@@ -1,5 +1,0 @@
-5.5.4.5.1 Set Passive Track Time. Set Passive User shall login into SCD application
-in ‘Online Mode’ and SCD Main Window shall be displayed to access this GUI. User shall
-click on this menu item to view existing passive track time or set new one at ES Processor.
-A GUI (as shown in Figure-5.277) with passive track time shall be displayed. Tracks will
-be marked by ES Processor as passive if they are not updated for passive time interval.

@@ -1,6 +1,0 @@
-5.5.4.2.20.33 Enable Encryption / Decryption. User shall click on this menu item to
-"enable or disable Encryption/Decryption for required sub-systems. A GUI, as shown in"
-"Figure-5.230, shall be displayed to user. If Operator selects ‘Enable’ for subsystem, data"
-and commands between SCD and the selected sub system will be encrypted & decrypted.
-In case of ‘Disable’ option encryption and decryption will not happen between SCD and the
-selected subsystem.

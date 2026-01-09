@@ -1,7 +1,0 @@
-Ser,Domain,Pulse Number,Expected Result
-1,Time,1,"Amplitude and Frequency profiles are
-displayed"
-2,Frequency,1,"Spectrum and STFT profiles are
-displayed"
-3,Time-Frequency,1,"Spectrogram and Contour profiles are
-displayed"

@@ -1,8 +1,0 @@
-(i) Switch on the system in normal mode of operation and check that
-system health status is OK on monitor.
-(ii) Observe the link status on the monitor between the processors of both
-ES and EA are OK.
-(iii) Observe that the emitters are received and check that the Parameters
-measured are satisfactory by approximation. (Rough idea).
-(iv) Check the system health by BITE operation at regular intervals (at a
-period of 2 or 3 hours).

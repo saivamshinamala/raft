@@ -1,6 +1,0 @@
-2.2.4.6 Freq Synthesizer 2-18G 488.28K. Freq Synthesizer 2-18 GHz 10dBm is used
-"in Shakti-BB & NB Rx AHU. The unit has a Video input, and a RF output port (SMA-F"
-connectors: J4 and J1) Power Supply and control connector (D-sub connectors: J2 and
-J3). It generates an RF signal corresponding to input tuning word in frequency range of 2-
-"18 GHz. The Video port is used for FM modulation, but is not used in the system. Table-"
-2.8 gives the details for frequency selection.

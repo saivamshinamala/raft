@@ -1,6 +1,0 @@
-Message Type,Color
-"‘NACK’ (Negative Acknowledgement), ‘Execution
-Unsuccessful’ received from Sub-system",Red
-"‘ACK’ (Acknowledgement), ‘Execution Successful’ received
-from Sub-system",Green
-All General Message,White

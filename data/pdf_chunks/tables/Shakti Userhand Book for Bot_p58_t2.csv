@@ -1,6 +1,0 @@
-Ser,Parameter,Specification
-1,Type of Antenna,Archimedean Spiral
-2,Frequency,2.2-18 GHz
-3,VSWR (Max.),2.5: 1
-4,Polarization,Circular (LHCP)
-5,Gain,-7.5dBLi to 0dBLi from 2.2-4 GHz

@@ -1,4 +1,0 @@
-& Display to get the threat parameters and the jamming technique to be employed against
-each threat. Based on the threat information appropriate subsystems will be controlled to
-counter the threat Radar. The EA Processor is common to both 6-18 GHz and 18-40 GHz
-EA sub-systems. Block diagram of EA Processor Module is shown below in Figure 2.64.

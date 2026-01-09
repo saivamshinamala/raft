@@ -1,6 +1,0 @@
-5.5.4.2.12.15 BB RX1 (2.2-18GHz) – Raw PD Mode (Specific to OEM). User shall
-login into SCD application in ‘Online Mode’ and SCD Main Window shall be displayed to
-access this GUI. User shall click on ‘BB Rx1 (2.2-18GHz)->Raw PD Mode’ menu item from
-‘ES Receiver’ menu and a GUI (as shown in Figure-5.127) shall be displayed to enable/
-disable raw PD mode at BB Rx1 (2.2-18GHz). The GUI shall retain the previous
-configuration parameters selected & applied by user.

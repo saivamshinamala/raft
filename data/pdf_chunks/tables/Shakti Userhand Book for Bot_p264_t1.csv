@@ -1,6 +1,0 @@
-5.5.4.2.12.5 NB RX1 (0.175-0.5 GHz) – Updated Attenuation Data. User shall login
-into SCD application in ‘Online Mode’ and SCD Main Window shall be displayed to access
-this GUI. User shall click on ‘NB Rx1 (0.175-0.5GHz)->Update Attenuation Data’ menu
-item from ‘ES Receiver’ menu and a GUI (as shown Figure-5.117: NBRx1 Attenuation
-Data Dialog) shall be displayed to update the receiver attenuation data in SCD application.
-The GUI shall retain the previous configuration parameters selected & applied by user.

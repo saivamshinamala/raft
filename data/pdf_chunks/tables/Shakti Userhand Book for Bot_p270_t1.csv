@@ -1,6 +1,0 @@
-5.5.4.2.12.11 NB RX2 (0.5-18GHz) – Attenuation Data. User shall login into SCD
-application in ‘Online Mode’ and SCD Main Window shall be displayed to access this GUI.
-User shall click on ‘NB Rx2 (0.5-18GHz)->Update Attenuation Data’ menu item from ‘ES
-Receiver’ menu and a GUI (as shown in Figure-5.123) shall be displayed to update the
-receiver attenuation data in SCD application. The GUI shall retain the previous
-configuration parameters selected & applied by user.

@@ -1,8 +1,0 @@
-5.5.4.2.20.5 BITE – Perform EA Manual BITE. User shall click on this menu item to
-"start EA manual BITE on EA system. A confirmation GUI, as shown in Figure-5.198, shall"
-be displayed to user. User shall click on ‘Yes’ option to proceed with manual BITE test.
-"After issuing BITE test, the status GUI, as shown in Figure-5.199, shall be displayed"
-immediately to user. The BITE status will be updated on this GUI as on when received from
-"EA Processor. The GUI shall retain the previous BITE status, if any, when opened. User"
-shall click on ‘Test Again’ option to perform BITE again on EA system. The test is not
-"periodic, hence user shall perform this test as on when required."

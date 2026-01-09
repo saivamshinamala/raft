@@ -1,6 +1,0 @@
-EA Transmitter Status,Color,"RGB Value in (R, G, B)
-Format"
-OFF,Dark Grey,"(89, 89, 89)"
-"House Keeping (HK) Supply
-ON",Cyan,"(190, 239, 255)"
-Heater ON,Blue,"(0, 0, 255)"

@@ -1,6 +1,0 @@
-(i) Check the DC offset voltages for each front-end receiver channel and
-check that the DC offset voltage is within the specified limits.
-(ii) Check the RF and Video Tangential Signal Sensitivity (TSS) at AHU
-outputs in normal mode by feeding the RF signals at AHU.
-(iii) Check the radomes physically and check that there is no damage on
-the radomes.

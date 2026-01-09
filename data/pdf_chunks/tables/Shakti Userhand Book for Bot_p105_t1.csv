@@ -1,7 +1,0 @@
-2.3.1.4 Transmitter-Power Supply Unit (MB2). The input supply required for Tx-PS
-"(MB2) units is derived from ship supply of 380V, 50 Hz, 3Ø through Isolation Transformers."
-The output DC voltage is 270V which is required for MPM modules of Tx (MB2). Each Tx-
-PS (MB2) unit provides DC voltages to eight MPM modules. Hence two Tx-PS (MB2) units
-are configured for the system on the Port side and two on the Star Board side. These units
-can be switched ON from EA Rack-1. The Pictorial view of Tx-PS (MB2) is shown in
-Figures 2.48.

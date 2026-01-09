@@ -1,4 +1,0 @@
-5.5.4.6.7.4 Inter Pulse Display. This display feature facilitates the user to view the
-graphical data of emitter parameters in various inter-pulse graphical formats. When this
-"option is clicked, LCIU shall send the corresponding plot ID to DSP to retrieve the graphical"
-"data and displays it in the Inter-Pulse Graphical Display. For CW track, this tab is disabled."

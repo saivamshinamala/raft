@@ -1,8 +1,0 @@
-2.3.1.2.2 Digital RF Memory (DRFM) with 1000 MHz IBW. As the modern radars have
-"a wider frequency agility of 1000 MHz, DRFM is configured to have such wider"
-instantaneous band width (IBW) meeting the requirements. DRFM can effectively handle
-Pulse compression / coherent radar signals and can repeat the threat signals without any
-degradation in their intra-pulse modulation characteristics thus compensating the
-processing gain of the modern radars on the ship-borne platforms. Each DRFM Module
-can handle 4 threats. The Block Diagram of DRFM Module is shown in Figure 2.43.
-""

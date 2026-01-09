@@ -1,7 +1,0 @@
-Ser,Parameter,Specifications,
-,,Unit 1,Unit 2
-1,Frequency Range,2.2-18 GHz,18-40 GHz
-2,VSWR,3:5:1 Over (Max),
-3,Coverage,"Azimuth-360°, Elevation- >20°
-(3 dB Beamwidth)",
-4,On-Axis Gain (Min),-2.0 dBi,0 dBi

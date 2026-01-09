@@ -1,6 +1,0 @@
-2.2.2.3.3 Receiver Processor Unit. Receiver Processor unit is located in the ES AHU-
-"2 and distributes all controls to Homodyne Receivers, QSHRs and RF BITE N/W unit as"
-shown in Figure 2.14. The interface between the unit and the front end is TTL in single
-ended form. The interface between the unit and the back end is on fiber optic interface for
-high speed PDWs data transfer and the unit also has Ethernet interface for command
-transfer.

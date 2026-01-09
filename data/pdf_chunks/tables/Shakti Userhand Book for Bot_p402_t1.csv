@@ -1,7 +1,0 @@
-Jamming,ON,"If any emitter is being jammed, HV
-ON should be applied and
-maximum of the MPMs status
-should be ‘Beam ON’ condition at
-EA System.",
-,OFF,"If no emitter is being jammed at EA
-System.",

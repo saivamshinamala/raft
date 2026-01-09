@@ -1,8 +1,0 @@
-2.2.8 Ethernet Switch. The Ethernet switch provides connectivity among the subsystem
-"of ES system, EA system and external interfaces (through) ESI unit."
-2.2.9 External System Interface (ESI) Unit. This unit interfaces SHAKTI system with
-other systems/interfaces of the platform. The data/signals from the platform like Ship’s
-"heading, vertical gyro, GPS data, onboard radars etc., required by the system are"
-interfaced through this unit. The external data of the platform received by this unit is
-converted into the format suitable to the various subsystems and distributed to the
-respective subsystem.

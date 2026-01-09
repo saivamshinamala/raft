@@ -1,9 +1,0 @@
-2.2.6.1 Multi Channel RF Unit (LB1-Shakti). Multi Channel RF Unit employs double
-"conversion super heterodyne technique to meet high sensitivity, spurious free dynamic"
-"range, better image rejection and good selectivity over the frequency range of 175 – 500"
-MHz All the 5 independent receivers are identical in all respect for maintaining the gain and
-"phase matching. It consists of five-channel gain and phase matched RF Tuner, PLL"
-"synthesized local oscillators, Calibration source (FSM), Embedded Receiver Controller"
-(ERC) and Power Supply Unit (PSU). These modules are mounted in an ATR form factor
-chassis and it is powered from 15 Volts DC. Calibration source signal from FSM and RS422
-interface commands from ERC to control ASU.

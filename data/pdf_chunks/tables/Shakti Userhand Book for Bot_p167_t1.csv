@@ -1,4 +1,0 @@
-"5.5.4.1 User Authentication (Login) GUIS. The underlying operating system, after"
-"completion of booting process, shall be configured to start SCD application automatically"
-in full screen mode. Operating system related applications/ tools shall not be visible to user
-"when SCD application is executing. By default, ‘login’ GUI shall be displayed immediately"

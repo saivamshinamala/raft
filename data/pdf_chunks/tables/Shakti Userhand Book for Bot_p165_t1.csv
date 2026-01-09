@@ -1,5 +1,0 @@
-"5.5.3.1 Offline Mode. In ‘Offline’ mode, Shakti EW system will not be open to EW"
-environment hence no emitter data shall be received and presented on display at SCD. In
-"this mode, system readiness related operations shall be supported. In start-up of SCD"
-"application, ‘Offline’ mode option shall be presented. When selected, this mode shall"
-present a GUI for carrying out ‘Offline’ mode activities such as:

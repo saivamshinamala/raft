@@ -1,5 +1,0 @@
-5.5.4.6.7.3 Ensembled Display. This display feature facilitates the user to view the
-Average Amplitude & Average Frequency profiles on a sample-to-sample basis. When this
-"option is selected, LCIU shall send the corresponding plot ID to DSP to retrieve the"
-"respective graphical data and display it in the Ensembled display window. For CW, this tab"
-must be disabled.

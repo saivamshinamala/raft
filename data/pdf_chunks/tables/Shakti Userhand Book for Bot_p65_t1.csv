@@ -1,5 +1,0 @@
-2.2.4.1 BITE Unit (18-40 GHz). Bite Unit is used as source of bite signal in 18-40 GHz
-band. Block diagram of the type-3 bite unit is as shown in Figure.2.21. It consists of 4 GHz
-PLO which is multiplied by 3 to generate 12 GHz signal. This signal is divided into 2 signals
-"using 2 way power divider. Further, signal is multiplied by 2 to generate 24 GHz signal"
-whereas second 12 GHz signal is multiplied by 3 to generate 36 GHz signal.

@@ -1,5 +1,0 @@
-"5.5.4.2.9.1 Track Status. When user clicks on this menu item a GUI, as shown in"
-"Figure 5.64, shall be displayed. User shall check ‘Enable’ option, select required filter"
-parameter (Track Status: Active or Passive) & and click on ‘Apply’ option to enforce this
-filter or shall click on ‘Disable’ option to remove this filter on SCD Main Window. User shall
-click on ‘Cancel’ option to exit from this GUI and go to SCD Main Window.

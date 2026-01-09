@@ -1,4 +1,0 @@
-2.2.5.5 Control Unit(ES Rack-1). ES Rack-1 Control Unit provides the 24V DC supply
-to Switch ON the ES Sub systems and distributes the Reset control to all ES Sub systems.
-It receives the health status of all ES sub systems and displays the Health status through
-front panel LED indications.

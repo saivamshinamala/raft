@@ -1,5 +1,0 @@
-2.3.2.4 Transmitter-Power Supply Unit (HB). The input supply required for Tx-PS
-"(HB) unit is derived from ship supply of 380V, 50 Hz, 3Ø through Isolation Transformers."
-This Unit generates the output DC voltages which are required for Tx-HVPS (HB). Two Tx-
-PS (HB) Units are configured for the system on the Port side and Star Board side. The
-Pictorial view for AC-DC Converter module is shown in below Figure 2.59.
